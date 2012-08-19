@@ -1,0 +1,93 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@using TKMVC
+
+@model TKMVC.Views.Category.CategoryViewModel
+<style type="text/css">
+    #breadcrumb {
+        height: 20px;
+    }
+</style>
+<script type="text/javascript">
+    TK = { };
+    TK.Category = { };
+    TK.Category.Model = @Html.Raw( Model.ToJson());
+</script>   
+    <script src="@Url.Content("~/Scripts/Category/Index.js")" type="text/javascript"></script>
+         
+           
+@helper Print(Category cat){
+    
+    
+    if(cat.ParentId == null)
+    {
+        <span>
+            
+              @if(cat.Id != Model.Category.Id)
+            {
+                @Html.ActionLink(cat.Name, "Index", "Category", new {id = cat.Id}, null)
+            }
+            else
+            {
+                <span>@cat.Name</span>
+            } 
+        </span>
+    }
+    else
+    {
+        <span>
+            
+
+            @Print(cat.ParentCategory) > 
+            @if(cat.Id != Model.Category.Id)
+            {
+                @Html.ActionLink(cat.Name, "Index", "Category", new {id = cat.Id}, null)
+            }
+            else
+            {
+                <span>@cat.Name</span>
+            }
+        </span>
+         
+    }
+}
+           
+           
+@*
+<h2>@Print(Model.Category)</h2>
+*@
+
+   <div id="breadcrumb">
+<script type="text/x-handlebars"  >
+     
+     
+        {{#each TKApp.dataController }}
+            {{#view TKApp.BreadCrumb contentBinding="this"}}
+              {{content.Name}}
+            {{/view}}
+        {{/each}}
+       
+    
+</script>
+
+ </div>
+@Model.Category.Resources.Count() of @Model.Paged.Total
+
+@foreach (var f in Model.Category.Resources)
+{
+    <div>@f.Name</div>
+          @Html.ActionLink(f.Name, "Edit", "Resource", new { id = f.Id }, null)
+  
+    
+}
+
+@foreach (var f in Model.Category.SubCategories)
+{
+  
+    <div>
+        @Html.ActionLink(f.Name, "Index", "Category", new { id = f.Id }, null)
+    </div>    
+   
+    
+}

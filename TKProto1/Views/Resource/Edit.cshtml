@@ -1,0 +1,80 @@
+﻿@model TKMVC.Views.Resource.EditResourceViewModel
+@{
+    ViewBag.Title = "title";
+}
+<script type="text/javascript">
+    TK = { };
+    TK.Resource = { };
+    TK.Resource.Model = @Html.Raw(Model.ToJson());
+
+</script>
+<style type="text/css">
+    #categories
+    {
+        width: 300px;
+        float: left;
+    }
+    
+    #resourceCategories
+    {
+        width: 300px;
+        float: left;
+    }
+    
+    .clear
+    {
+        clear: both;
+    }
+</style>
+<h2>
+    title</h2>
+<div>
+    @Model.Resource.Name - @Model.Resource.Id
+</div>
+<script src="@Url.Content("~/Scripts/Resource/Edit.js")" type="text/javascript"></script>
+<div id="categories">
+    <script type="text/x-handlebars">
+        <ul>
+        {{#each TKApp.dataController }}
+            {{#view TKApp.BreadCrumb contentBinding="this"}}
+              {{content.Name}} <a>Add</a> 
+
+            {{/view}}
+        {{/each}}
+        </ul>
+    </script>
+</div>
+<form method="POST">
+    <input type="hidden" name="r.Id" value="@Model.Resource.Id"/>
+    <input type="hidden" name="r.Name" value="@Model.Resource.Name"/>
+   
+    <input type="submit"/>
+    <div id="resourceCategories">
+    <script type="text/x-handlebars">
+        
+        <ul>
+        {{#each TKApp.resourceCategoriesController }}
+            {{#view TKApp.BreadCrumb2 contentBinding="this"}}
+              {{content.Name}} <a>Remove</a> 
+                 {{view TKApp.HiddenIndex  contentBinding="content" valueBinding="content.Id"  }}
+           
+              {{view TKApp.HiddenInput  contentBinding="content" valueBinding="content.Id"  }}
+            {{/view}}
+        {{/each}}
+        </ul>
+    </script>
+     </div>
+    </form>
+    @if (Model.UndoGuid != new Guid("00000000-0000-0000-0000-000000000000"))
+    {
+
+        Html.BeginForm("Undo", "Resource", FormMethod.Post);
+        
+            <input type="hidden" value="@Model.UndoGuid" name="id"/>
+            <input type="submit" value="Undo"/>
+        Html.EndForm();
+    }
+   
+
+<div class="clear">
+</div>

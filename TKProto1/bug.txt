@@ -1,0 +1,1004 @@
+SmartSVN version = 7.0.4-r13065-svnkit-trunk/svnkit/src/main/java@9343
+awt.toolkit                    : "sun.awt.windows.WToolkit"
+exe4j.consoleCodepage          : "cp0"
+exe4j.launchName               : "C:\\Program Files (x86)\\SmartSVN 7\\bin\\smartsvn.exe"
+exe4j.moduleName               : "C:\\Program Files (x86)\\SmartSVN 7\\bin\\smartsvn.exe"
+exe4j.semaphoreName            : "c:_program files (x86)_smartsvn 7_bin_smartsvn.exe0"
+exe4j.tempDir                  : "C:\\Users\\Admin\\AppData\\Local\\Temp\\e4jC01C.tmp_dir11238"
+exe4j.unextractedPosition      : "213500"
+file.encoding                  : "Cp1252"
+file.encoding.pkg              : "sun.io"
+file.separator                 : "\\"
+install4j.exeDir               : "C:\\Program Files (x86)\\SmartSVN 7\\bin\\"
+java.awt.graphicsenv           : "sun.awt.Win32GraphicsEnvironment"
+java.awt.printerjob            : "sun.awt.windows.WPrinterJob"
+java.class.path                : "C:\\Users\\Admin\\AppData\\Local\\Temp\\e4jC01C.tmp_dir11238\\exe4jlib.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\antlr-runtime.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\commons-code-1.4.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\commons-logging-1.1.1.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\help.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\httpclient-4.1.1.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\httpcore-4.1.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jdbm-1.0.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jide-common.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jide-dock.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jmyspell-core.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jna-app.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jna.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\log4j.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\openapi.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\sequence-library.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\smartsvn.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\sqljet.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\svnkit-cli.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\svnkit-ext.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\svnkit.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\trilead.jar;"
+java.class.version             : "51.0"
+java.endorsed.dirs             : "c:\\program files (x86)\\smartsvn 7\\jre\\lib\\endorsed"
+java.ext.dirs                  : "c:\\program files (x86)\\smartsvn 7\\jre\\lib\\ext;C:\\Windows\\Sun\\Java\\lib\\ext"
+java.home                      : "c:\\program files (x86)\\smartsvn 7\\jre"
+java.io.tmpdir                 : "C:\\Users\\Admin\\AppData\\Local\\Temp\\"
+java.library.path              : "C:\\Program Files (x86)\\SmartSVN 7\\bin;C:\\Windows\\Sun\\Java\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\Microsoft ASP.NET\\ASP.NET Web Pages\\v1.0\\;c:\\Program Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\;c:\\Program Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\VSShell\\Common7\\IDE\\;c:\\Program Files (x86)\\Microsoft SQL Server\\100\\DTS\\Binn\\;C:\\Program Files\\TortoiseSVN\\bin;c:\\program files (x86)\\smartsvn 7\\jre\\bin;."
+java.net.preferIPv4Stack       : "true"
+java.runtime.name              : "Java(TM) SE Runtime Environment"
+java.runtime.version           : "1.7.0_02-b13"
+java.specification.name        : "Java Platform API Specification"
+java.specification.vendor      : "Oracle Corporation"
+java.specification.version     : "1.7"
+java.vendor                    : "Oracle Corporation"
+java.vendor.url                : "http://java.oracle.com/"
+java.vendor.url.bug            : "http://bugreport.sun.com/bugreport/"
+java.version                   : "1.7.0_02"
+java.vm.info                   : "mixed mode"
+java.vm.name                   : "Java HotSpot(TM) Client VM"
+java.vm.specification.name     : "Java Virtual Machine Specification"
+java.vm.specification.vendor   : "Oracle Corporation"
+java.vm.specification.version  : "1.7"
+java.vm.vendor                 : "Oracle Corporation"
+java.vm.version                : "22.0-b10"
+jna.boot.library.path          : "C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\darwin;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\win32-x86;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\linux-i386;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\linux-amd64;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\linux-ia64;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\sunos-x86;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\sunos-amd64;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\sunos-sparc;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\sunos-sparcv9;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\freebsd-i386;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\freebsd-amd64;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\win32-amd64;"
+line.separator                 : "\r\n"
+log4j.defaultInitOverride      : "true"
+os.arch                        : "x86"
+os.name                        : "Windows 7"
+os.version                     : "6.1"
+path.separator                 : ";"
+shadingtheme                   : "true"
+smartsvn.home                  : "C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7"
+sun.arch.data.model            : "32"
+sun.awt.enableExtraMouseButtons: "true"
+sun.boot.class.path            : "c:\\program files (x86)\\smartsvn 7\\jre\\lib\\resources.jar;c:\\program files (x86)\\smartsvn 7\\jre\\lib\\rt.jar;c:\\program files (x86)\\smartsvn 7\\jre\\lib\\sunrsasign.jar;c:\\program files (x86)\\smartsvn 7\\jre\\lib\\jsse.jar;c:\\program files (x86)\\smartsvn 7\\jre\\lib\\jce.jar;c:\\program files (x86)\\smartsvn 7\\jre\\lib\\charsets.jar;c:\\program files (x86)\\smartsvn 7\\jre\\classes"
+sun.boot.library.path          : "c:\\program files (x86)\\smartsvn 7\\jre\\bin"
+sun.cpu.endian                 : "little"
+sun.cpu.isalist                : "pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"
+sun.desktop                    : "windows"
+sun.io.unicode.encoding        : "UnicodeLittle"
+sun.java.command               : "SmartSVN"
+sun.java2d.noddraw             : "true"
+sun.jnu.encoding               : "Cp1252"
+sun.management.compiler        : "HotSpot Client Compiler"
+sun.os.patch.level             : "Service Pack 1"
+svnkit.http.methods            : "Basic,NTLM,Digest,Negotiate"
+user.country                   : "US"
+user.dir                       : "C:\\Program Files (x86)\\SmartSVN 7\\bin"
+user.home                      : "C:\\Users\\Admin"
+user.language                  : "en"
+user.name                      : "Admin"
+user.script                    : ""
+user.timezone                  : "America/New_York"
+user.variant                   : ""
+
+29 Thread[main,5,main] SmartSVN version 7.0.4-r13065-svnkit-trunk/svnkit/src/main/java@9343
+30 Thread[main,5,main] awt.toolkit                    : "sun.awt.windows.WToolkit"
+30 Thread[main,5,main] exe4j.consoleCodepage          : "cp0"
+30 Thread[main,5,main] exe4j.launchName               : "C:\\Program Files (x86)\\SmartSVN 7\\bin\\smartsvn.exe"
+30 Thread[main,5,main] exe4j.moduleName               : "C:\\Program Files (x86)\\SmartSVN 7\\bin\\smartsvn.exe"
+30 Thread[main,5,main] exe4j.semaphoreName            : "c:_program files (x86)_smartsvn 7_bin_smartsvn.exe0"
+30 Thread[main,5,main] exe4j.tempDir                  : "C:\\Users\\Admin\\AppData\\Local\\Temp\\e4jC01C.tmp_dir11238"
+30 Thread[main,5,main] exe4j.unextractedPosition      : "213500"
+30 Thread[main,5,main] file.encoding                  : "Cp1252"
+30 Thread[main,5,main] file.encoding.pkg              : "sun.io"
+30 Thread[main,5,main] file.separator                 : "\\"
+31 Thread[main,5,main] install4j.exeDir               : "C:\\Program Files (x86)\\SmartSVN 7\\bin\\"
+31 Thread[main,5,main] java.awt.graphicsenv           : "sun.awt.Win32GraphicsEnvironment"
+31 Thread[main,5,main] java.awt.printerjob            : "sun.awt.windows.WPrinterJob"
+31 Thread[main,5,main] java.class.path                : "C:\\Users\\Admin\\AppData\\Local\\Temp\\e4jC01C.tmp_dir11238\\exe4jlib.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\antlr-runtime.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\commons-code-1.4.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\commons-logging-1.1.1.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\help.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\httpclient-4.1.1.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\httpcore-4.1.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jdbm-1.0.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jide-common.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jide-dock.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jmyspell-core.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jna-app.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\jna.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\log4j.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\openapi.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\sequence-library.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\smartsvn.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\sqljet.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\svnkit-cli.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\svnkit-ext.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\svnkit.jar;C:\\Program Files (x86)\\SmartSVN 7\\bin\\..\\lib\\trilead.jar;"
+31 Thread[main,5,main] java.class.version             : "51.0"
+31 Thread[main,5,main] java.endorsed.dirs             : "c:\\program files (x86)\\smartsvn 7\\jre\\lib\\endorsed"
+31 Thread[main,5,main] java.ext.dirs                  : "c:\\program files (x86)\\smartsvn 7\\jre\\lib\\ext;C:\\Windows\\Sun\\Java\\lib\\ext"
+31 Thread[main,5,main] java.home                      : "c:\\program files (x86)\\smartsvn 7\\jre"
+31 Thread[main,5,main] java.io.tmpdir                 : "C:\\Users\\Admin\\AppData\\Local\\Temp\\"
+31 Thread[main,5,main] java.library.path              : "C:\\Program Files (x86)\\SmartSVN 7\\bin;C:\\Windows\\Sun\\Java\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\Microsoft ASP.NET\\ASP.NET Web Pages\\v1.0\\;c:\\Program Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\;c:\\Program Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\VSShell\\Common7\\IDE\\;c:\\Program Files (x86)\\Microsoft SQL Server\\100\\DTS\\Binn\\;C:\\Program Files\\TortoiseSVN\\bin;c:\\program files (x86)\\smartsvn 7\\jre\\bin;."
+31 Thread[main,5,main] java.net.preferIPv4Stack       : "true"
+31 Thread[main,5,main] java.runtime.name              : "Java(TM) SE Runtime Environment"
+31 Thread[main,5,main] java.runtime.version           : "1.7.0_02-b13"
+31 Thread[main,5,main] java.specification.name        : "Java Platform API Specification"
+31 Thread[main,5,main] java.specification.vendor      : "Oracle Corporation"
+31 Thread[main,5,main] java.specification.version     : "1.7"
+31 Thread[main,5,main] java.vendor                    : "Oracle Corporation"
+31 Thread[main,5,main] java.vendor.url                : "http://java.oracle.com/"
+31 Thread[main,5,main] java.vendor.url.bug            : "http://bugreport.sun.com/bugreport/"
+31 Thread[main,5,main] java.version                   : "1.7.0_02"
+31 Thread[main,5,main] java.vm.info                   : "mixed mode"
+31 Thread[main,5,main] java.vm.name                   : "Java HotSpot(TM) Client VM"
+32 Thread[main,5,main] java.vm.specification.name     : "Java Virtual Machine Specification"
+32 Thread[main,5,main] java.vm.specification.vendor   : "Oracle Corporation"
+32 Thread[main,5,main] java.vm.specification.version  : "1.7"
+32 Thread[main,5,main] java.vm.vendor                 : "Oracle Corporation"
+32 Thread[main,5,main] java.vm.version                : "22.0-b10"
+32 Thread[main,5,main] jna.boot.library.path          : "C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\darwin;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\win32-x86;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\linux-i386;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\linux-amd64;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\linux-ia64;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\sunos-x86;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\sunos-amd64;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\sunos-sparc;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\sunos-sparcv9;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\freebsd-i386;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\freebsd-amd64;C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7\\jna-tmp\\com\\sun\\jna\\win32-amd64;"
+32 Thread[main,5,main] line.separator                 : "\r\n"
+32 Thread[main,5,main] log4j.defaultInitOverride      : "true"
+32 Thread[main,5,main] os.arch                        : "x86"
+32 Thread[main,5,main] os.name                        : "Windows 7"
+32 Thread[main,5,main] os.version                     : "6.1"
+32 Thread[main,5,main] path.separator                 : ";"
+32 Thread[main,5,main] shadingtheme                   : "true"
+32 Thread[main,5,main] smartsvn.home                  : "C:\\Users\\Admin\\AppData\\Roaming\\syntevo\\SmartSVN\\7"
+32 Thread[main,5,main] sun.arch.data.model            : "32"
+32 Thread[main,5,main] sun.awt.enableExtraMouseButtons: "true"
+32 Thread[main,5,main] sun.boot.class.path            : "c:\\program files (x86)\\smartsvn 7\\jre\\lib\\resources.jar;c:\\program files (x86)\\smartsvn 7\\jre\\lib\\rt.jar;c:\\program files (x86)\\smartsvn 7\\jre\\lib\\sunrsasign.jar;c:\\program files (x86)\\smartsvn 7\\jre\\lib\\jsse.jar;c:\\program files (x86)\\smartsvn 7\\jre\\lib\\jce.jar;c:\\program files (x86)\\smartsvn 7\\jre\\lib\\charsets.jar;c:\\program files (x86)\\smartsvn 7\\jre\\classes"
+32 Thread[main,5,main] sun.boot.library.path          : "c:\\program files (x86)\\smartsvn 7\\jre\\bin"
+32 Thread[main,5,main] sun.cpu.endian                 : "little"
+32 Thread[main,5,main] sun.cpu.isalist                : "pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"
+32 Thread[main,5,main] sun.desktop                    : "windows"
+32 Thread[main,5,main] sun.io.unicode.encoding        : "UnicodeLittle"
+33 Thread[main,5,main] sun.java.command               : "SmartSVN"
+33 Thread[main,5,main] sun.java2d.noddraw             : "true"
+33 Thread[main,5,main] sun.jnu.encoding               : "Cp1252"
+33 Thread[main,5,main] sun.management.compiler        : "HotSpot Client Compiler"
+33 Thread[main,5,main] sun.os.patch.level             : "Service Pack 1"
+33 Thread[main,5,main] svnkit.http.methods            : "Basic,NTLM,Digest,Negotiate"
+33 Thread[main,5,main] user.country                   : "US"
+33 Thread[main,5,main] user.dir                       : "C:\\Program Files (x86)\\SmartSVN 7\\bin"
+33 Thread[main,5,main] user.home                      : "C:\\Users\\Admin"
+33 Thread[main,5,main] user.language                  : "en"
+33 Thread[main,5,main] user.name                      : "Admin"
+33 Thread[main,5,main] user.script                    : ""
+33 Thread[main,5,main] user.timezone                  : "America/New_York"
+33 Thread[main,5,main] user.variant                   : ""
+33 Thread[main,5,main] class loader: sun.misc.Launcher$AppClassLoader
+33 Thread[main,5,main]   C:\Users\Admin\AppData\Local\Temp\e4jC01C.tmp_dir11238\exe4jlib.jar
+33 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\antlr-runtime.jar
+33 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\commons-code-1.4.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\commons-logging-1.1.1.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\help.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\httpclient-4.1.1.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\httpcore-4.1.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\jdbm-1.0.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\jide-common.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\jide-dock.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\jmyspell-core.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\jna-app.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\jna.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\log4j.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\openapi.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\sequence-library.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\smartsvn.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\sqljet.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\svnkit-cli.jar
+34 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\svnkit-ext.jar
+35 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\svnkit.jar
+35 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\lib\trilead.jar
+35 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\bin\
+35 Thread[main,5,main] parent class loader: sun.misc.Launcher$AppClassLoader
+35 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\jre\lib\ext\sunec.jar
+35 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\jre\lib\ext\sunjce_provider.jar
+35 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\jre\lib\ext\sunmscapi.jar
+35 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\jre\lib\ext\sunpkcs11.jar
+35 Thread[main,5,main]   C:\Program Files (x86)\SmartSVN 7\jre\lib\ext\zipfs.jar
+90 Thread[main,5,main] svnkit.admindir=null
+90 Thread[main,5,main] svnkit.fastSymlinkResolution=null
+91 Thread[main,5,main] svnkit.symlinks=true
+91 Thread[main,5,main] sun.io.useCanonCaches=null
+738 Thread[main,5,main] No property for key 'editFile' found!
+740 Thread[main,5,main] No property for key 'fileStarter' found!
+740 Thread[main,5,main] No property for key 'runInFileDirectory' found!
+741 Thread[main,5,main] No property for key 'binaryExtensions' found!
+741 Thread[main,5,main] No property for key 'debugSettings' found!
+747 Thread[main,5,main] Maximum memory limit: 247.5MB
+747 Thread[main,5,main] License type is 'Professional Demo(1)'.
+757 Thread[main,5,main] No property for key 'trunkPath' found!
+758 Thread[main,5,main] No property for key 'branchPath' found!
+758 Thread[main,5,main] No property for key 'tagPath' found!
+780 Thread[main,5,main] No property for key 'tmateSettings' found!
+791 Thread[main,5,main] Read 1 phrases from plain-text part.
+799 Thread[main,5,main] No property for key 'state' found!
+799 Thread[main,5,main] No property for key 'state' found!
+799 Thread[main,5,main] No property for key 'DAVProxy' found!
+814 Thread[main,5,main] No property for key 'globalIgnorePattern' found!
+816 Thread[main,5,main] No property for key 'tmateSettings' found!
+819 Thread[main,5,main] No property for key 'globalIgnorePattern' found!
+819 Thread[main,5,main] No property for key 'tmateSettings' found!
+828 Thread[main,5,main] Ignored common location C:\Users\Admin\AppData\Roaming\syntevo\SmartSVN\7\plugins\common
+829 Thread[main,5,main] Ignored plugin location C:\Users\Admin\AppData\Roaming\syntevo\SmartSVN\7\plugins
+833 Thread[main,5,main] Plugin C:\Program Files (x86)\SmartSVN 7\plugins\commitTemplate.jar loaded.
+834 Thread[main,5,main] Plugin C:\Program Files (x86)\SmartSVN 7\plugins\hideMenuItems.jar loaded.
+836 Thread[main,5,main] Plugin C:\Program Files (x86)\SmartSVN 7\plugins\jira.jar loaded.
+837 Thread[main,5,main] Plugin C:\Program Files (x86)\SmartSVN 7\plugins\mergeInfoColumn.jar loaded.
+838 Thread[main,5,main] Plugin C:\Program Files (x86)\SmartSVN 7\plugins\preCommitHook.jar loaded.
+839 Thread[main,5,main] Plugin C:\Program Files (x86)\SmartSVN 7\plugins\quickUpdate.jar loaded.
+841 Thread[main,5,main] Plugin C:\Program Files (x86)\SmartSVN 7\plugins\removeEmptyDirectories.jar loaded.
+842 Thread[main,5,main] Plugin C:\Program Files (x86)\SmartSVN 7\plugins\sendSupportEmail.jar loaded.
+843 Thread[main,5,main] Plugin C:\Program Files (x86)\SmartSVN 7\plugins\tagMultiple.jar loaded.
+1039 Thread[main,5,main] waited false
+1044 Thread[Command-Server,5,main] Server is connected to 4231.
+1807 Thread[AWT-EventQueue-0,6,main] opening smartsvn.Pt@1253394:SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1852 Thread[AWT-EventQueue-0,6,main] radio button 'Open existing project(s):' selected in smartsvn.hQ@1D63D23:title: Welcome to SmartSVN
+1857 Thread[AWT-EventQueue-0,6,main] Showing dialog 0 (@1D63D23) '@66DD83 - Welcome to SmartSVN' (owner: @6CB615)
+1876 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Welcome to SmartSVN' on top of 'smartsvn.dm@6CB615:SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+5484 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @1D63D23 owner @6CB615
+5505 Thread[AWT-EventQueue-0,6,main] Showed dialog 0 (@1D63D23) '@66DD83 - Welcome to SmartSVN' (owner: @6CB615)
+5506 Thread[AWT-EventQueue-0,6,main] Set project [C:\sites\whataburger.com] in smartsvn.Pt@1253394:SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+5539 Thread[AWT-EventQueue-0,6,main] scheduled runnable @4ADCFF
+5539 Thread[WorkerThread-3,2,main] starting runnable @4ADCFF
+5543 Thread[main,5,main] Last Update Check too early.
+5548 Thread[WorkerThread-3,2,main] Opening project 'whataburger.com', roots: [C:\sites\whataburger.com]
+6095 Thread[WorkerThread-3,2,main] File collector is 'NIO 1.7'.
+6257 Thread[WorkerThread-3,2,main] Could not determine admin area version.
+6289 Thread[AWT-EventQueue-0,6,main] Initializing Transactions for project [C:\sites\whataburger.com]
+6318 Thread[WorkerThread-3,2,main] finished runnable @4ADCFF
+7003 Thread[AWT-EventQueue-0,6,main] Showing dialog 1 (@1A711A3) '@120A2F1 - Passwords' (owner: @6CB615)
+7020 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Passwords' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+10237 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @1A711A3 owner @6CB615
+10246 Thread[AWT-EventQueue-0,6,main] Showed dialog 1 (@1A711A3) '@120A2F1 - Passwords' (owner: @6CB615)
+13017 Thread[QThreadPoolThread-0,5,main] Scanning of [C:\sites\whataburger.com] took 6.719 seconds. Project has 15442 files in 4082 directories (2905.789 entries per second).
+16522 Thread[AWT-EventQueue-0,6,main] Performing 'project-settings, Settings..., Change settings for the current project.' menu item in Project from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+16611 Thread[AWT-EventQueue-0,6,main] radio button 'Use from SVN 'config' file' selected in smartsvn.hQ@1701E4C:title: Project Settings
+16611 Thread[AWT-EventQueue-0,6,main] radio button 'Use following patterns (each pattern on a new line)' selected in smartsvn.hQ@1701E4C:title: Project Settings
+16612 Thread[AWT-EventQueue-0,6,main] Showing dialog 2 (@1701E4C) '@1EECF6F - Project Settings' (owner: @6CB615)
+16654 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Project Settings' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+16685 Thread[QThreadPoolThread-1,5,main] Cache update for [/<infinity>] took 2728 ms.
+71521 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @1701E4C owner @6CB615
+71527 Thread[AWT-EventQueue-0,6,main] Showed dialog 2 (@1701E4C) '@1EECF6F - Project Settings' (owner: @6CB615)
+88837 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+89008 Thread[AWT-EventQueue-0,6,main] Showing dialog 3 (@D864FC) '@2C62B6 - Preferences' (owner: @6CB615)
+89076 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+105489 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @D864FC owner @6CB615
+105534 Thread[AWT-EventQueue-0,6,main] Showing dialog 4 (@135CEEF) '@795BC5 - Edit' (owner: @D864FC)
+105553 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@D864FC:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+110606 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@135CEEF:title: Edit
+112420 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @135CEEF owner @D864FC owner @6CB615
+112491 Thread[AWT-EventQueue-0,6,main] Showing dialog 5 (@1F5C86C) '@21235F - Select File' (owner: @135CEEF)
+112504 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@135CEEF:title: Edit'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+158669 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @1F5C86C owner @135CEEF owner @D864FC owner @6CB615
+158692 Thread[AWT-EventQueue-0,6,main] Showed dialog 5 (@1F5C86C) '@21235F - Select File' (owner: @135CEEF)
+172399 Thread[AWT-EventQueue-0,6,main] Performing 'Paste' menu item on smartsvn.ef in window smartsvn.hQ@135CEEF:title: Edit
+177555 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@135CEEF:title: Edit
+180352 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@135CEEF:title: Edit
+185823 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@135CEEF:title: Edit
+190883 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@135CEEF:title: Edit
+193642 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@135CEEF:title: Edit
+233025 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @135CEEF owner @D864FC owner @6CB615
+233044 Thread[AWT-EventQueue-0,6,main] Showed dialog 4 (@135CEEF) '@795BC5 - Edit' (owner: @D864FC)
+234235 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @D864FC owner @6CB615
+234276 Thread[AWT-EventQueue-0,6,main] Showed dialog 3 (@D864FC) '@2C62B6 - Preferences' (owner: @6CB615)
+319703 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+319798 Thread[AWT-EventQueue-0,6,main] Showing dialog 6 (@153DA63) '@223878 - Merge' (owner: @6CB615)
+319821 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+323567 Thread[AWT-EventQueue-0,6,main] Performing 'Preview' button in window @153DA63 owner @6CB615
+323585 Thread[AWT-EventQueue-0,6,main] Showed dialog 6 (@153DA63) '@223878 - Merge' (owner: @6CB615)
+323607 Thread[AWT-EventQueue-0,6,main] scheduled runnable @75CDD3
+323607 Thread[WorkerThread-3,2,main] starting runnable @75CDD3
+323793 Thread[WorkerThread-3,2,main] Merge from http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch@486 ranges 0-486 to C:\sites\whataburger.com\branches\PostLaunchQAFixes (depth=infinity,ignoreAncestry=false,recordOnly=false,force=false,dryRun=true;reversed=false;extendedMerge=null)
+346181 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@19A62D0:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@529C6:class smartsvn.adO
+346182 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@19A62D0:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@529C6:class smartsvn.adO
+346224 Thread[WorkerThread-3,2,main] finished runnable @75CDD3
+353725 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @CD4682
+353725 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+353738 Thread[AWT-EventQueue-0,6,main] scheduled runnable @6A9512
+353738 Thread[WorkerThread-3,2,main] starting runnable @6A9512
+353900 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@1392100:title: *Conflict Preview; smartsvn.XG@114D579:class smartsvn.XG
+353900 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@1392100:title: *Conflict Preview; smartsvn.XG@114D579:class smartsvn.XG
+353979 Thread[WorkerThread-3,2,main] finished runnable @6A9512
+356936 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@1392100:title: Conflict Preview; smartsvn.XG@114D579:class smartsvn.XG
+356945 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@1392100:title: Conflict Preview; smartsvn.XG@114D579:class smartsvn.XG
+356948 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@1392100:title: Conflict Preview; smartsvn.XG@114D579:class smartsvn.XG
+356949 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@1392100:title: Conflict Preview; smartsvn.XG@114D579:class smartsvn.XG
+358638 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@19A62D0:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@529C6:class smartsvn.adO
+358666 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@19A62D0:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@529C6:class smartsvn.adO
+358674 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@19A62D0:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@529C6:class smartsvn.adO
+358675 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@19A62D0:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@529C6:class smartsvn.adO
+364150 Thread[AWT-EventQueue-0,6,main] Performing 'project-settings, Settings..., Change settings for the current project.' menu item in Project from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+364194 Thread[AWT-EventQueue-0,6,main] radio button 'Use from SVN 'config' file' selected in smartsvn.hQ@1054EF3:title: Project Settings
+364194 Thread[AWT-EventQueue-0,6,main] radio button 'Use following patterns (each pattern on a new line)' selected in smartsvn.hQ@1054EF3:title: Project Settings
+364195 Thread[AWT-EventQueue-0,6,main] Showing dialog 7 (@1054EF3) '@EE9B9B - Project Settings' (owner: @6CB615)
+364234 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Project Settings' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+366936 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @1054EF3 owner @6CB615
+366956 Thread[AWT-EventQueue-0,6,main] Showed dialog 7 (@1054EF3) '@EE9B9B - Project Settings' (owner: @6CB615)
+368945 Thread[AWT-EventQueue-0,6,main] Performing 'project-defaults, Default Settings..., Change the defaults for new projects.' menu item in Project from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+368987 Thread[AWT-EventQueue-0,6,main] radio button 'Use from SVN 'config' file' selected in smartsvn.hQ@3F5CA7:title: Default Project Settings
+368987 Thread[AWT-EventQueue-0,6,main] radio button 'Use following patterns (each pattern on a new line)' selected in smartsvn.hQ@3F5CA7:title: Default Project Settings
+368987 Thread[AWT-EventQueue-0,6,main] Showing dialog 8 (@3F5CA7) '@1DB9E43 - Default Project Settings' (owner: @6CB615)
+369028 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Default Project Settings' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+371116 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @3F5CA7 owner @6CB615
+371145 Thread[AWT-EventQueue-0,6,main] Showed dialog 8 (@3F5CA7) '@1DB9E43 - Default Project Settings' (owner: @6CB615)
+372532 Thread[AWT-EventQueue-0,6,main] Performing 'refresh, Refresh, Refresh the file system information.' button in window @6CB615
+379450 Thread[QThreadPoolThread-0,5,main] Cache update for [/<infinity>] took 2100 ms.
+389634 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+389716 Thread[AWT-EventQueue-0,6,main] Showing dialog 9 (@7DA952) '@62B1BC - Preferences' (owner: @6CB615)
+389766 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+394797 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @7DA952 owner @6CB615
+394826 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@7D460D:title: Edit
+394827 Thread[AWT-EventQueue-0,6,main] Showing dialog 10 (@7D460D) '@1007B9E - Edit' (owner: @7DA952)
+394859 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@7DA952:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+411258 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@7D460D:title: Edit
+439467 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @7D460D owner @7DA952 owner @6CB615
+439524 Thread[AWT-EventQueue-0,6,main] Showing dialog 11 (@18396EC) '@1FDEE7A - Select File' (owner: @7D460D)
+439538 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@7D460D:title: Edit'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+524239 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @18396EC owner @7D460D owner @7DA952 owner @6CB615
+524255 Thread[AWT-EventQueue-0,6,main] Showed dialog 11 (@18396EC) '@1FDEE7A - Select File' (owner: @7D460D)
+525561 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @7D460D owner @7DA952 owner @6CB615
+525573 Thread[AWT-EventQueue-0,6,main] Showed dialog 10 (@7D460D) '@1007B9E - Edit' (owner: @7DA952)
+527459 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @7DA952 owner @6CB615
+527501 Thread[AWT-EventQueue-0,6,main] Showed dialog 9 (@7DA952) '@62B1BC - Preferences' (owner: @6CB615)
+536865 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+536919 Thread[AWT-EventQueue-0,6,main] Showing dialog 12 (@1ACDFA) '@40F1F - Merge' (owner: @6CB615)
+536942 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+542676 Thread[AWT-EventQueue-0,6,main] Performing 'Preview' button in window @1ACDFA owner @6CB615
+542693 Thread[AWT-EventQueue-0,6,main] Showed dialog 12 (@1ACDFA) '@40F1F - Merge' (owner: @6CB615)
+542696 Thread[AWT-EventQueue-0,6,main] scheduled runnable @16E156B
+542697 Thread[WorkerThread-3,2,main] starting runnable @16E156B
+542799 Thread[WorkerThread-3,2,main] Merge from http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch@486 ranges 0-486 to C:\sites\whataburger.com\branches\PostLaunchQAFixes (depth=infinity,ignoreAncestry=false,recordOnly=false,force=false,dryRun=true;reversed=false;extendedMerge=null)
+565476 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@285755:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@14062E0:class smartsvn.adO
+565476 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@285755:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@14062E0:class smartsvn.adO
+565519 Thread[WorkerThread-3,2,main] finished runnable @16E156B
+569556 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @7D98D0
+569556 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+569567 Thread[AWT-EventQueue-0,6,main] scheduled runnable @1C7F4D9
+569568 Thread[WorkerThread-3,2,main] starting runnable @1C7F4D9
+569674 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@8D0CC7:title: *Conflict Preview; smartsvn.XG@D2261C:class smartsvn.XG
+569674 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@8D0CC7:title: *Conflict Preview; smartsvn.XG@D2261C:class smartsvn.XG
+569758 Thread[WorkerThread-3,2,main] finished runnable @1C7F4D9
+571922 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@8D0CC7:title: Conflict Preview; smartsvn.XG@D2261C:class smartsvn.XG
+571944 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@8D0CC7:title: Conflict Preview; smartsvn.XG@D2261C:class smartsvn.XG
+571981 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@8D0CC7:title: Conflict Preview; smartsvn.XG@D2261C:class smartsvn.XG
+571981 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@8D0CC7:title: Conflict Preview; smartsvn.XG@D2261C:class smartsvn.XG
+573398 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@285755:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@14062E0:class smartsvn.adO
+573417 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@285755:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@14062E0:class smartsvn.adO
+573424 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@285755:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@14062E0:class smartsvn.adO
+573425 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@285755:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@14062E0:class smartsvn.adO
+598706 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+598785 Thread[AWT-EventQueue-0,6,main] Showing dialog 13 (@1FC530E) '@100BA01 - Preferences' (owner: @6CB615)
+598843 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1470059 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @1FC530E owner @6CB615
+1470087 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@68DADA:title: Edit
+1470088 Thread[AWT-EventQueue-0,6,main] Showing dialog 14 (@68DADA) '@1B2CD0B - Edit' (owner: @1FC530E)
+1470117 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@1FC530E:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1474357 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @68DADA owner @1FC530E owner @6CB615
+1474376 Thread[AWT-EventQueue-0,6,main] Showed dialog 14 (@68DADA) '@1B2CD0B - Edit' (owner: @1FC530E)
+1475669 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @1FC530E owner @6CB615
+1475716 Thread[AWT-EventQueue-0,6,main] Showed dialog 13 (@1FC530E) '@100BA01 - Preferences' (owner: @6CB615)
+1514178 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1514268 Thread[AWT-EventQueue-0,6,main] Showing dialog 15 (@61B7B) '@BF22D8 - Merge' (owner: @6CB615)
+1514292 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1523904 Thread[AWT-EventQueue-0,6,main] Performing 'Preview' button in window @61B7B owner @6CB615
+1523921 Thread[AWT-EventQueue-0,6,main] Showed dialog 15 (@61B7B) '@BF22D8 - Merge' (owner: @6CB615)
+1523924 Thread[AWT-EventQueue-0,6,main] scheduled runnable @9F9C9
+1523925 Thread[WorkerThread-3,2,main] starting runnable @9F9C9
+1524046 Thread[WorkerThread-3,2,main] Merge from http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch@486 ranges 0-486 to C:\sites\whataburger.com\branches\PostLaunchQAFixes (depth=infinity,ignoreAncestry=false,recordOnly=false,force=false,dryRun=true;reversed=false;extendedMerge=null)
+1546265 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@810391:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1A695FC:class smartsvn.adO
+1546265 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@810391:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1A695FC:class smartsvn.adO
+1546305 Thread[WorkerThread-3,2,main] finished runnable @9F9C9
+1549266 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @113B6A
+1549266 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+1549277 Thread[AWT-EventQueue-0,6,main] scheduled runnable @35D141
+1549278 Thread[WorkerThread-3,2,main] starting runnable @35D141
+1549378 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@10B64A:title: *Conflict Preview; smartsvn.XG@6A12B8:class smartsvn.XG
+1549379 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@10B64A:title: *Conflict Preview; smartsvn.XG@6A12B8:class smartsvn.XG
+1549465 Thread[WorkerThread-3,2,main] finished runnable @35D141
+1551679 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@10B64A:title: Conflict Preview; smartsvn.XG@6A12B8:class smartsvn.XG
+1551703 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@10B64A:title: Conflict Preview; smartsvn.XG@6A12B8:class smartsvn.XG
+1551735 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@10B64A:title: Conflict Preview; smartsvn.XG@6A12B8:class smartsvn.XG
+1551735 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@10B64A:title: Conflict Preview; smartsvn.XG@6A12B8:class smartsvn.XG
+1552900 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@810391:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1A695FC:class smartsvn.adO
+1552916 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@810391:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1A695FC:class smartsvn.adO
+1552926 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@810391:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1A695FC:class smartsvn.adO
+1552926 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@810391:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1A695FC:class smartsvn.adO
+1553211 Thread[QThreadPoolThread-0,5,main] Cache update for [/branches/PostLaunchQAFixes/Whataburger/Whataburger.suo<immediates>] took 7 ms.
+1558542 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1558629 Thread[AWT-EventQueue-0,6,main] Showing dialog 16 (@97F36D) '@297E83 - Preferences' (owner: @6CB615)
+1558681 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1575117 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @97F36D owner @6CB615
+1575144 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@1ED660B:title: Edit
+1575145 Thread[AWT-EventQueue-0,6,main] Showing dialog 17 (@1ED660B) '@142543F - Edit' (owner: @97F36D)
+1575166 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@97F36D:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1588165 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @1ED660B owner @97F36D owner @6CB615
+1588181 Thread[AWT-EventQueue-0,6,main] Showed dialog 17 (@1ED660B) '@142543F - Edit' (owner: @97F36D)
+1598080 Thread[AWT-EventQueue-0,6,main] Performing 'Add...' button in window @97F36D owner @6CB615
+1598110 Thread[AWT-EventQueue-0,6,main] Showing dialog 18 (@E6ECE7) '@FC5622 - Add' (owner: @97F36D)
+1598157 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Add' on top of 'smartsvn.hQ@97F36D:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1600122 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@E6ECE7:title: Add
+1601609 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @E6ECE7 owner @97F36D owner @6CB615
+1601664 Thread[AWT-EventQueue-0,6,main] Showing dialog 19 (@17AA061) '@C38CC0 - Select File' (owner: @E6ECE7)
+1601677 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@E6ECE7:title: Add'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1614345 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @17AA061 owner @E6ECE7 owner @97F36D owner @6CB615
+1614365 Thread[AWT-EventQueue-0,6,main] Showed dialog 19 (@17AA061) '@C38CC0 - Select File' (owner: @E6ECE7)
+1632031 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @E6ECE7 owner @97F36D owner @6CB615
+1632051 Thread[AWT-EventQueue-0,6,main] Showed dialog 18 (@E6ECE7) '@FC5622 - Add' (owner: @97F36D)
+1641399 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @97F36D owner @6CB615
+1641443 Thread[AWT-EventQueue-0,6,main] Showed dialog 16 (@97F36D) '@297E83 - Preferences' (owner: @6CB615)
+1657019 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1657084 Thread[AWT-EventQueue-0,6,main] Showing dialog 20 (@11DF56C) '@16EA146 - Merge' (owner: @6CB615)
+1657107 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1659181 Thread[AWT-EventQueue-0,6,main] Performing 'Preview' button in window @11DF56C owner @6CB615
+1659198 Thread[AWT-EventQueue-0,6,main] Showed dialog 20 (@11DF56C) '@16EA146 - Merge' (owner: @6CB615)
+1659201 Thread[AWT-EventQueue-0,6,main] scheduled runnable @D7AE93
+1659202 Thread[WorkerThread-3,2,main] starting runnable @D7AE93
+1659351 Thread[WorkerThread-3,2,main] Merge from http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch@486 ranges 0-486 to C:\sites\whataburger.com\branches\PostLaunchQAFixes (depth=infinity,ignoreAncestry=false,recordOnly=false,force=false,dryRun=true;reversed=false;extendedMerge=null)
+1683094 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@AFBD37:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8173C6:class smartsvn.adO
+1683094 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@AFBD37:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8173C6:class smartsvn.adO
+1683133 Thread[WorkerThread-3,2,main] finished runnable @D7AE93
+1685031 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @1AF987E
+1685031 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+1685040 Thread[AWT-EventQueue-0,6,main] scheduled runnable @163CDBE
+1685040 Thread[WorkerThread-3,2,main] starting runnable @163CDBE
+1685113 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@1BD6ACA:title: *Conflict Preview; smartsvn.XG@1B8228A:class smartsvn.XG
+1685113 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@1BD6ACA:title: *Conflict Preview; smartsvn.XG@1B8228A:class smartsvn.XG
+1685188 Thread[WorkerThread-3,2,main] finished runnable @163CDBE
+1691502 Thread[AWT-EventQueue-0,6,main] Performing '  Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions), Switch to the window with the title 'Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions)'.' menu item in Window from menu in window smartsvn.dm@403F0E:title: Conflict Preview; smartsvn.XG@1B8228A:class smartsvn.XG
+1695428 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@1BD6ACA:title: Conflict Preview; smartsvn.XG@1B8228A:class smartsvn.XG
+1695438 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@1BD6ACA:title: Conflict Preview; smartsvn.XG@1B8228A:class smartsvn.XG
+1695441 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@1BD6ACA:title: Conflict Preview; smartsvn.XG@1B8228A:class smartsvn.XG
+1695441 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@1BD6ACA:title: Conflict Preview; smartsvn.XG@1B8228A:class smartsvn.XG
+1701430 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.' menu item on smartsvn.oH in window smartsvn.dm@1AF987E:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8173C6:class smartsvn.adO
+1701442 Thread[AWT-EventQueue-0,6,main] scheduled runnable @FB7D58
+1701443 Thread[WorkerThread-3,2,main] starting runnable @FB7D58
+1701523 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@7B5FD0:title: *Conflict Preview; smartsvn.XG@169E2C7:class smartsvn.XG
+1701524 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@7B5FD0:title: *Conflict Preview; smartsvn.XG@169E2C7:class smartsvn.XG
+1701594 Thread[WorkerThread-3,2,main] finished runnable @FB7D58
+1703389 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@7B5FD0:title: Conflict Preview; smartsvn.XG@169E2C7:class smartsvn.XG
+1703408 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@7B5FD0:title: Conflict Preview; smartsvn.XG@169E2C7:class smartsvn.XG
+1703415 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@7B5FD0:title: Conflict Preview; smartsvn.XG@169E2C7:class smartsvn.XG
+1703415 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@7B5FD0:title: Conflict Preview; smartsvn.XG@169E2C7:class smartsvn.XG
+1711320 Thread[AWT-EventQueue-0,6,main] Performing 'file-close, Close, Close this window.' menu item in Merge from menu in window smartsvn.dm@1AF987E:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8173C6:class smartsvn.adO
+1711320 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@AFBD37:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8173C6:class smartsvn.adO
+1711336 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@AFBD37:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8173C6:class smartsvn.adO
+1711349 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@AFBD37:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8173C6:class smartsvn.adO
+1711349 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@AFBD37:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8173C6:class smartsvn.adO
+1731462 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1731550 Thread[AWT-EventQueue-0,6,main] Showing dialog 21 (@1C30A03) '@13D8057 - Merge' (owner: @6CB615)
+1731578 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1734281 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @1C30A03 owner @6CB615
+1734294 Thread[AWT-EventQueue-0,6,main] Showed dialog 21 (@1C30A03) '@13D8057 - Merge' (owner: @6CB615)
+1856295 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1856340 Thread[AWT-EventQueue-0,6,main] Showing dialog 22 (@12F3AD3) '@1BE050B - Preferences' (owner: @6CB615)
+1856388 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1874368 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @12F3AD3 owner @6CB615
+1874398 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@1690FA4:title: Edit
+1874399 Thread[AWT-EventQueue-0,6,main] Showing dialog 23 (@1690FA4) '@2706F0 - Edit' (owner: @12F3AD3)
+1874434 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@12F3AD3:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1881741 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @1690FA4 owner @12F3AD3 owner @6CB615
+1881757 Thread[AWT-EventQueue-0,6,main] Showed dialog 23 (@1690FA4) '@2706F0 - Edit' (owner: @12F3AD3)
+1884319 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @12F3AD3 owner @6CB615
+1884348 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@12A413B:title: Edit
+1884349 Thread[AWT-EventQueue-0,6,main] Showing dialog 24 (@12A413B) '@AF5FFC - Edit' (owner: @12F3AD3)
+1884372 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@12F3AD3:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1886857 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @12A413B owner @12F3AD3 owner @6CB615
+1886874 Thread[AWT-EventQueue-0,6,main] Showed dialog 24 (@12A413B) '@AF5FFC - Edit' (owner: @12F3AD3)
+1893562 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @12F3AD3 owner @6CB615
+1893589 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@410487:title: Edit
+1893590 Thread[AWT-EventQueue-0,6,main] Showing dialog 25 (@410487) '@24CC86 - Edit' (owner: @12F3AD3)
+1893617 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@12F3AD3:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1896524 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @410487 owner @12F3AD3 owner @6CB615
+1896579 Thread[AWT-EventQueue-0,6,main] Showing dialog 26 (@578FB) '@1C8E042 - Select File' (owner: @410487)
+1896606 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@410487:title: Edit'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1899045 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @578FB owner @410487 owner @12F3AD3 owner @6CB615
+1899074 Thread[AWT-EventQueue-0,6,main] Showed dialog 26 (@578FB) '@1C8E042 - Select File' (owner: @410487)
+1899873 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @410487 owner @12F3AD3 owner @6CB615
+1899891 Thread[AWT-EventQueue-0,6,main] Showed dialog 25 (@410487) '@24CC86 - Edit' (owner: @12F3AD3)
+1902962 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @12F3AD3 owner @6CB615
+1902988 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@832DD7:title: Edit
+1902989 Thread[AWT-EventQueue-0,6,main] Showing dialog 27 (@832DD7) '@18F1638 - Edit' (owner: @12F3AD3)
+1903014 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@12F3AD3:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1905325 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @832DD7 owner @12F3AD3 owner @6CB615
+1905360 Thread[AWT-EventQueue-0,6,main] Showing dialog 28 (@1B510F6) '@627F5 - Select File' (owner: @832DD7)
+1905382 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@832DD7:title: Edit'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1908398 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @1B510F6 owner @832DD7 owner @12F3AD3 owner @6CB615
+1908421 Thread[AWT-EventQueue-0,6,main] Showed dialog 28 (@1B510F6) '@627F5 - Select File' (owner: @832DD7)
+1909202 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @832DD7 owner @12F3AD3 owner @6CB615
+1909221 Thread[AWT-EventQueue-0,6,main] Showed dialog 27 (@832DD7) '@18F1638 - Edit' (owner: @12F3AD3)
+1910037 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @12F3AD3 owner @6CB615
+1910068 Thread[AWT-EventQueue-0,6,main] Showed dialog 22 (@12F3AD3) '@1BE050B - Preferences' (owner: @6CB615)
+1920851 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1920916 Thread[AWT-EventQueue-0,6,main] Showing dialog 29 (@8290E1) '@1DFCB92 - Merge' (owner: @6CB615)
+1920937 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+1922833 Thread[AWT-EventQueue-0,6,main] Performing 'Preview' button in window @8290E1 owner @6CB615
+1922846 Thread[AWT-EventQueue-0,6,main] Showed dialog 29 (@8290E1) '@1DFCB92 - Merge' (owner: @6CB615)
+1922849 Thread[AWT-EventQueue-0,6,main] scheduled runnable @1A2524F
+1922850 Thread[WorkerThread-3,2,main] starting runnable @1A2524F
+1922965 Thread[WorkerThread-3,2,main] Merge from http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch@486 ranges 0-486 to C:\sites\whataburger.com\branches\PostLaunchQAFixes (depth=infinity,ignoreAncestry=false,recordOnly=false,force=false,dryRun=true;reversed=false;extendedMerge=null)
+1943033 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@17A1638:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8408E5:class smartsvn.adO
+1943034 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@17A1638:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8408E5:class smartsvn.adO
+1943071 Thread[WorkerThread-3,2,main] finished runnable @1A2524F
+1972805 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @48CCD4
+1972805 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+1972820 Thread[AWT-EventQueue-0,6,main] scheduled runnable @126E9E3
+1972820 Thread[WorkerThread-3,2,main] starting runnable @126E9E3
+1972904 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@B4040D:title: *Conflict Preview; smartsvn.XG@D4C83F:class smartsvn.XG
+1972904 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@B4040D:title: *Conflict Preview; smartsvn.XG@D4C83F:class smartsvn.XG
+1972975 Thread[WorkerThread-3,2,main] finished runnable @126E9E3
+1974780 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@B4040D:title: Conflict Preview; smartsvn.XG@D4C83F:class smartsvn.XG
+1974802 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@B4040D:title: Conflict Preview; smartsvn.XG@D4C83F:class smartsvn.XG
+1974834 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@B4040D:title: Conflict Preview; smartsvn.XG@D4C83F:class smartsvn.XG
+1974834 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@B4040D:title: Conflict Preview; smartsvn.XG@D4C83F:class smartsvn.XG
+1977478 Thread[AWT-EventQueue-0,6,main] Performing 'show-changes, Show Changes, Show the merge changes for the selected file using the file compare.' menu item on smartsvn.oH in window smartsvn.dm@48CCD4:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8408E5:class smartsvn.adO
+1977488 Thread[AWT-EventQueue-0,6,main] scheduled runnable @735B21
+1977489 Thread[WorkerThread-3,2,main] starting runnable @735B21
+1977582 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@1DBE493:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Areas\Admin\Views\Shared\_Head.cshtml] - File/Revision Compare; smartsvn.WA@17E0997:class smartsvn.WA
+1977582 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@1DBE493:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Areas\Admin\Views\Shared\_Head.cshtml] - File/Revision Compare; smartsvn.WA@17E0997:class smartsvn.WA
+1977634 Thread[WorkerThread-3,2,main] finished runnable @735B21
+1981173 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@1DBE493:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Areas\Admin\Views\Shared\_Head.cshtml] - File/Revision Compare; smartsvn.WA@17E0997:class smartsvn.WA
+1981197 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@1DBE493:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Areas\Admin\Views\Shared\_Head.cshtml] - File/Revision Compare; smartsvn.WA@17E0997:class smartsvn.WA
+1981235 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@1DBE493:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Areas\Admin\Views\Shared\_Head.cshtml] - File/Revision Compare; smartsvn.WA@17E0997:class smartsvn.WA
+1981235 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@1DBE493:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Areas\Admin\Views\Shared\_Head.cshtml] - File/Revision Compare; smartsvn.WA@17E0997:class smartsvn.WA
+1984501 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @48CCD4
+1984501 Thread[AWT-EventQueue-0,6,main] Performing 'show-changes, Show Changes, Show the merge changes for the selected file using the file compare.' in window @48CCD4
+1984512 Thread[AWT-EventQueue-0,6,main] scheduled runnable @1DF13AE
+1984512 Thread[WorkerThread-3,2,main] starting runnable @1DF13AE
+1984557 Thread[AWT-EventQueue-0,6,main] Showing dialog 30 (@1BCE5D9) '@8A253E - Show Changes' (owner: @48CCD4)
+1984577 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Show Changes' on top of 'smartsvn.dm@48CCD4:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8408E5:class smartsvn.adO'
+original frame: smartsvn.dm@48CCD4:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8408E5:class smartsvn.adO
+1990025 Thread[AWT-EventQueue-0,6,main] Performing 'Open' button in window @1BCE5D9 owner @48CCD4
+1990045 Thread[AWT-EventQueue-0,6,main] Showed dialog 30 (@1BCE5D9) '@8A253E - Show Changes' (owner: @48CCD4)
+1990045 Thread[AWT-EventQueue-0,6,main] Show: Show Changes - Both file contents are equal. Shall the file compare be opened anyway?=true
+1990131 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@1CE579:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Food\_Subnav.cshtml] - File/Revision Compare; smartsvn.WA@C3B137:class smartsvn.WA
+1990131 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@1CE579:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Food\_Subnav.cshtml] - File/Revision Compare; smartsvn.WA@C3B137:class smartsvn.WA
+1990180 Thread[WorkerThread-3,2,main] finished runnable @1DF13AE
+1993382 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@1CE579:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Food\_Subnav.cshtml] - File/Revision Compare; smartsvn.WA@C3B137:class smartsvn.WA
+1993392 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@1CE579:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Food\_Subnav.cshtml] - File/Revision Compare; smartsvn.WA@C3B137:class smartsvn.WA
+1993414 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@1CE579:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Food\_Subnav.cshtml] - File/Revision Compare; smartsvn.WA@C3B137:class smartsvn.WA
+1993414 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@1CE579:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Food\_Subnav.cshtml] - File/Revision Compare; smartsvn.WA@C3B137:class smartsvn.WA
+1995016 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@17A1638:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8408E5:class smartsvn.adO
+1995037 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@17A1638:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8408E5:class smartsvn.adO
+1995045 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@17A1638:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8408E5:class smartsvn.adO
+1995045 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@17A1638:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@8408E5:class smartsvn.adO
+2000838 Thread[AWT-EventQueue-0,6,main] Performing 'customize, Customize..., Customize toolbar, accelerators and popup menus.' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2000911 Thread[AWT-EventQueue-0,6,main] Showing dialog 31 (@942CA7) '@A097B - Configure' (owner: @6CB615)
+2000934 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Configure' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2004173 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @942CA7 owner @6CB615
+2004207 Thread[AWT-EventQueue-0,6,main] Showed dialog 31 (@942CA7) '@A097B - Configure' (owner: @6CB615)
+2006244 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2006322 Thread[AWT-EventQueue-0,6,main] Showing dialog 32 (@180E224) '@1677221 - Preferences' (owner: @6CB615)
+2006374 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2012508 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @180E224 owner @6CB615
+2012534 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@FE1385:title: Edit
+2012536 Thread[AWT-EventQueue-0,6,main] Showing dialog 33 (@FE1385) '@1E9CBDD - Edit' (owner: @180E224)
+2012581 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@180E224:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2028726 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @FE1385 owner @180E224 owner @6CB615
+2028744 Thread[AWT-EventQueue-0,6,main] Showed dialog 33 (@FE1385) '@1E9CBDD - Edit' (owner: @180E224)
+2031969 Thread[AWT-EventQueue-0,6,main] Performing 'Move Down' button in window @180E224 owner @6CB615
+2034117 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @180E224 owner @6CB615
+2034143 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@102B706:title: Edit
+2034143 Thread[AWT-EventQueue-0,6,main] Showing dialog 34 (@102B706) '@1E1F4ED - Edit' (owner: @180E224)
+2034157 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@180E224:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2042008 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @102B706 owner @180E224 owner @6CB615
+2042026 Thread[AWT-EventQueue-0,6,main] Showed dialog 34 (@102B706) '@1E1F4ED - Edit' (owner: @180E224)
+2042914 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @180E224 owner @6CB615
+2042952 Thread[AWT-EventQueue-0,6,main] Showed dialog 32 (@180E224) '@1677221 - Preferences' (owner: @6CB615)
+2052135 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2052209 Thread[AWT-EventQueue-0,6,main] Showing dialog 35 (@ADDE9D) '@1A97D1F - Merge' (owner: @6CB615)
+2052243 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2054148 Thread[AWT-EventQueue-0,6,main] Performing 'Preview' button in window @ADDE9D owner @6CB615
+2054160 Thread[AWT-EventQueue-0,6,main] Showed dialog 35 (@ADDE9D) '@1A97D1F - Merge' (owner: @6CB615)
+2054163 Thread[AWT-EventQueue-0,6,main] scheduled runnable @1A5090C
+2054164 Thread[WorkerThread-3,2,main] starting runnable @1A5090C
+2054276 Thread[WorkerThread-3,2,main] Merge from http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch@486 ranges 0-486 to C:\sites\whataburger.com\branches\PostLaunchQAFixes (depth=infinity,ignoreAncestry=false,recordOnly=false,force=false,dryRun=true;reversed=false;extendedMerge=null)
+2075581 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@D88738:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1F8D3CD:class smartsvn.adO
+2075581 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@D88738:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1F8D3CD:class smartsvn.adO
+2075625 Thread[WorkerThread-3,2,main] finished runnable @1A5090C
+2081232 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @1958FD1
+2081232 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+2081245 Thread[AWT-EventQueue-0,6,main] scheduled runnable @A51578
+2081245 Thread[WorkerThread-3,2,main] starting runnable @A51578
+2081342 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@E554F1:title: *Conflict Preview; smartsvn.XG@1CA2C27:class smartsvn.XG
+2081343 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@E554F1:title: *Conflict Preview; smartsvn.XG@1CA2C27:class smartsvn.XG
+2081400 Thread[WorkerThread-3,2,main] finished runnable @A51578
+2083044 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@E554F1:title: Conflict Preview; smartsvn.XG@1CA2C27:class smartsvn.XG
+2083067 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@E554F1:title: Conflict Preview; smartsvn.XG@1CA2C27:class smartsvn.XG
+2083073 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@E554F1:title: Conflict Preview; smartsvn.XG@1CA2C27:class smartsvn.XG
+2083073 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@E554F1:title: Conflict Preview; smartsvn.XG@1CA2C27:class smartsvn.XG
+2199593 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@D88738:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1F8D3CD:class smartsvn.adO
+2199620 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@D88738:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1F8D3CD:class smartsvn.adO
+2199623 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@D88738:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1F8D3CD:class smartsvn.adO
+2199623 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@D88738:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1F8D3CD:class smartsvn.adO
+2229510 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2229584 Thread[AWT-EventQueue-0,6,main] Showing dialog 36 (@148ACBC) '@11643CC - Preferences' (owner: @6CB615)
+2229631 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2261117 Thread[AWT-EventQueue-0,6,main] Performing 'Delete' button in window @148ACBC owner @6CB615
+2261181 Thread[AWT-EventQueue-0,6,main] Performing 'Delete' button in window @148ACBC owner @6CB615
+2262375 Thread[AWT-EventQueue-0,6,main] Performing 'Add...' button in window @148ACBC owner @6CB615
+2262400 Thread[AWT-EventQueue-0,6,main] Showing dialog 37 (@18D3DB5) '@3E74B6 - Add' (owner: @148ACBC)
+2262449 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Add' on top of 'smartsvn.hQ@148ACBC:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2267038 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@18D3DB5:title: Add
+2269751 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @18D3DB5 owner @148ACBC owner @6CB615
+2269813 Thread[AWT-EventQueue-0,6,main] Showing dialog 38 (@1886E87) '@5E4632 - Select File' (owner: @18D3DB5)
+2269849 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@18D3DB5:title: Add'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2273210 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @1886E87 owner @18D3DB5 owner @148ACBC owner @6CB615
+2273232 Thread[AWT-EventQueue-0,6,main] Showed dialog 38 (@1886E87) '@5E4632 - Select File' (owner: @18D3DB5)
+2274745 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@18D3DB5:title: Add
+2315703 Thread[AWT-EventQueue-0,6,main] Performing 'Variables' button in window @18D3DB5 owner @148ACBC owner @6CB615
+2318742 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @18D3DB5 owner @148ACBC owner @6CB615
+2318793 Thread[AWT-EventQueue-0,6,main] Showing dialog 39 (@BE6C5E) '@C4AEAD - Select File' (owner: @18D3DB5)
+2318821 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@18D3DB5:title: Add'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2333063 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @BE6C5E owner @18D3DB5 owner @148ACBC owner @6CB615
+2333084 Thread[AWT-EventQueue-0,6,main] Showed dialog 39 (@BE6C5E) '@C4AEAD - Select File' (owner: @18D3DB5)
+2335258 Thread[AWT-EventQueue-0,6,main] Performing 'Variables' button in window @18D3DB5 owner @148ACBC owner @6CB615
+2336128 Thread[AWT-EventQueue-0,6,main] Performing 'Left File, ' menu item on javax.swing.JPanel in window smartsvn.hQ@18D3DB5:title: Add
+2336788 Thread[AWT-EventQueue-0,6,main] Performing 'Variables' button in window @18D3DB5 owner @148ACBC owner @6CB615
+2337622 Thread[AWT-EventQueue-0,6,main] Performing 'Right File, ' menu item on javax.swing.JPanel in window smartsvn.hQ@18D3DB5:title: Add
+2349382 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @18D3DB5 owner @148ACBC owner @6CB615
+2349404 Thread[AWT-EventQueue-0,6,main] Showed dialog 37 (@18D3DB5) '@3E74B6 - Add' (owner: @148ACBC)
+2351836 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @148ACBC owner @6CB615
+2351877 Thread[AWT-EventQueue-0,6,main] Showed dialog 36 (@148ACBC) '@11643CC - Preferences' (owner: @6CB615)
+2361251 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2361369 Thread[AWT-EventQueue-0,6,main] Showing dialog 40 (@19DCDB6) '@144EDF6 - Merge' (owner: @6CB615)
+2361400 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2363149 Thread[AWT-EventQueue-0,6,main] Performing 'Preview' button in window @19DCDB6 owner @6CB615
+2363169 Thread[AWT-EventQueue-0,6,main] Showed dialog 40 (@19DCDB6) '@144EDF6 - Merge' (owner: @6CB615)
+2363172 Thread[AWT-EventQueue-0,6,main] scheduled runnable @DB5D5C
+2363172 Thread[WorkerThread-3,2,main] starting runnable @DB5D5C
+2363308 Thread[WorkerThread-3,2,main] Merge from http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch@486 ranges 0-486 to C:\sites\whataburger.com\branches\PostLaunchQAFixes (depth=infinity,ignoreAncestry=false,recordOnly=false,force=false,dryRun=true;reversed=false;extendedMerge=null)
+2384370 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@E61A95:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@69F80F:class smartsvn.adO
+2384370 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@E61A95:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@69F80F:class smartsvn.adO
+2384412 Thread[WorkerThread-3,2,main] finished runnable @DB5D5C
+2386301 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @DB4547
+2386301 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+2386305 Thread[AWT-EventQueue-0,6,main] scheduled runnable @4CFEBC
+2386305 Thread[WorkerThread-3,2,main] starting runnable @4CFEBC
+2386335 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@1937CA2:title: *Conflict Preview; smartsvn.XG@D9EDE5:class smartsvn.XG
+2386336 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@1937CA2:title: *Conflict Preview; smartsvn.XG@D9EDE5:class smartsvn.XG
+2386419 Thread[WorkerThread-3,2,main] finished runnable @4CFEBC
+2388208 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@1937CA2:title: Conflict Preview; smartsvn.XG@D9EDE5:class smartsvn.XG
+2388228 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@1937CA2:title: Conflict Preview; smartsvn.XG@D9EDE5:class smartsvn.XG
+2388267 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@1937CA2:title: Conflict Preview; smartsvn.XG@D9EDE5:class smartsvn.XG
+2388267 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@1937CA2:title: Conflict Preview; smartsvn.XG@D9EDE5:class smartsvn.XG
+2389108 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@E61A95:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@69F80F:class smartsvn.adO
+2389123 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@E61A95:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@69F80F:class smartsvn.adO
+2389132 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@E61A95:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@69F80F:class smartsvn.adO
+2389133 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@E61A95:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@69F80F:class smartsvn.adO
+2393577 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2393655 Thread[AWT-EventQueue-0,6,main] Showing dialog 41 (@D276C) '@1174E26 - Preferences' (owner: @6CB615)
+2393711 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2399716 Thread[AWT-EventQueue-0,6,main] Performing 'Delete' button in window @D276C owner @6CB615
+2400366 Thread[AWT-EventQueue-0,6,main] Performing 'Add...' button in window @D276C owner @6CB615
+2400393 Thread[AWT-EventQueue-0,6,main] Showing dialog 42 (@E9B867) '@17A114E - Add' (owner: @D276C)
+2400444 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Add' on top of 'smartsvn.hQ@D276C:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2401552 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@E9B867:title: Add
+2402600 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @E9B867 owner @D276C owner @6CB615
+2402649 Thread[AWT-EventQueue-0,6,main] Showing dialog 43 (@1DDAC13) '@104C481 - Select File' (owner: @E9B867)
+2402668 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@E9B867:title: Add'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2419170 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @1DDAC13 owner @E9B867 owner @D276C owner @6CB615
+2419191 Thread[AWT-EventQueue-0,6,main] Showed dialog 43 (@1DDAC13) '@104C481 - Select File' (owner: @E9B867)
+2421428 Thread[AWT-EventQueue-0,6,main] Performing 'Variables' button in window @E9B867 owner @D276C owner @6CB615
+2422430 Thread[AWT-EventQueue-0,6,main] Performing 'File, ' menu item on javax.swing.JPanel in window smartsvn.hQ@E9B867:title: Add
+2427951 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @E9B867 owner @D276C owner @6CB615
+2427970 Thread[AWT-EventQueue-0,6,main] Showed dialog 42 (@E9B867) '@17A114E - Add' (owner: @D276C)
+2429747 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @D276C owner @6CB615
+2429785 Thread[AWT-EventQueue-0,6,main] Showed dialog 41 (@D276C) '@1174E26 - Preferences' (owner: @6CB615)
+2431162 Thread[AWT-EventQueue-0,6,main] file: [C:/sites/whataburger.com] /branches/PostLaunchQAFixes/Database/20120706/Social Tags Creation.sql
+2431383 Thread[AWT-EventQueue-0,6,main] Performing 'smart open' in window @6CB615
+2431431 Thread[AWT-EventQueue-0,6,main] scheduled runnable @129AF9D
+2431431 Thread[WorkerThread-3,2,main] starting runnable @129AF9D
+2431522 Thread[QThreadPoolThread-2,5,main] Ignoring unknown command 'null'.
+2431725 Thread[WorkerThread-3,2,main] finished runnable @129AF9D
+2440327 Thread[AWT-EventQueue-0,6,main] file: [C:/sites/whataburger.com] /branches/PostLaunchQAFixes/Whataburger/Dynamit.Web/APIHelpers/dtFourSquare.cs
+2440554 Thread[AWT-EventQueue-0,6,main] Performing 'smart open' in window @6CB615
+2440607 Thread[AWT-EventQueue-0,6,main] scheduled runnable @1FFBA17
+2440607 Thread[WorkerThread-3,2,main] starting runnable @1FFBA17
+2440627 Thread[QThreadPoolThread-0,5,main] Ignoring unknown command 'null'.
+2440680 Thread[WorkerThread-3,2,main] finished runnable @1FFBA17
+2452000 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2452077 Thread[AWT-EventQueue-0,6,main] Showing dialog 44 (@1B309C9) '@136EFE1 - Merge' (owner: @6CB615)
+2452118 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2453736 Thread[AWT-EventQueue-0,6,main] Performing 'Preview' button in window @1B309C9 owner @6CB615
+2453751 Thread[AWT-EventQueue-0,6,main] Showed dialog 44 (@1B309C9) '@136EFE1 - Merge' (owner: @6CB615)
+2453755 Thread[AWT-EventQueue-0,6,main] scheduled runnable @1910085
+2453756 Thread[WorkerThread-3,2,main] starting runnable @1910085
+2453857 Thread[WorkerThread-3,2,main] Merge from http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch@486 ranges 0-486 to C:\sites\whataburger.com\branches\PostLaunchQAFixes (depth=infinity,ignoreAncestry=false,recordOnly=false,force=false,dryRun=true;reversed=false;extendedMerge=null)
+2475686 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@10DB698:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@D50A15:class smartsvn.adO
+2475686 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@10DB698:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@D50A15:class smartsvn.adO
+2475726 Thread[WorkerThread-3,2,main] finished runnable @1910085
+2478069 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @14EE0C7
+2478070 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+2478083 Thread[AWT-EventQueue-0,6,main] scheduled runnable @ED932A
+2478083 Thread[WorkerThread-3,2,main] starting runnable @ED932A
+2478151 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@1CFFFC:title: *Conflict Preview; smartsvn.XG@1638DF0:class smartsvn.XG
+2478151 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@1CFFFC:title: *Conflict Preview; smartsvn.XG@1638DF0:class smartsvn.XG
+2478208 Thread[WorkerThread-3,2,main] finished runnable @ED932A
+2482325 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@1CFFFC:title: Conflict Preview; smartsvn.XG@1638DF0:class smartsvn.XG
+2482346 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@1CFFFC:title: Conflict Preview; smartsvn.XG@1638DF0:class smartsvn.XG
+2482352 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@1CFFFC:title: Conflict Preview; smartsvn.XG@1638DF0:class smartsvn.XG
+2482352 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@1CFFFC:title: Conflict Preview; smartsvn.XG@1638DF0:class smartsvn.XG
+2483825 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @14EE0C7
+2483826 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+2483838 Thread[AWT-EventQueue-0,6,main] scheduled runnable @14C9E36
+2483838 Thread[WorkerThread-3,2,main] starting runnable @14C9E36
+2483923 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@CF748D:title: *Conflict Preview; smartsvn.XG@183BDE3:class smartsvn.XG
+2483923 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@CF748D:title: *Conflict Preview; smartsvn.XG@183BDE3:class smartsvn.XG
+2483977 Thread[WorkerThread-3,2,main] finished runnable @14C9E36
+2485623 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@CF748D:title: Conflict Preview; smartsvn.XG@183BDE3:class smartsvn.XG
+2485642 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@CF748D:title: Conflict Preview; smartsvn.XG@183BDE3:class smartsvn.XG
+2485648 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@CF748D:title: Conflict Preview; smartsvn.XG@183BDE3:class smartsvn.XG
+2485649 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@CF748D:title: Conflict Preview; smartsvn.XG@183BDE3:class smartsvn.XG
+2487116 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @14EE0C7
+2487116 Thread[AWT-EventQueue-0,6,main] Performing 'show-changes, Show Changes, Show the merge changes for the selected file using the file compare.' in window @14EE0C7
+2487129 Thread[AWT-EventQueue-0,6,main] scheduled runnable @193B911
+2487130 Thread[WorkerThread-3,2,main] starting runnable @193B911
+2487160 Thread[AWT-EventQueue-0,6,main] Showing dialog 45 (@13B2E47) '@19789CF - Show Changes' (owner: @14EE0C7)
+2487190 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Show Changes' on top of 'smartsvn.dm@14EE0C7:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@D50A15:class smartsvn.adO'
+original frame: smartsvn.dm@14EE0C7:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@D50A15:class smartsvn.adO
+2488669 Thread[AWT-EventQueue-0,6,main] Performing 'Open' button in window @13B2E47 owner @14EE0C7
+2488690 Thread[AWT-EventQueue-0,6,main] Showed dialog 45 (@13B2E47) '@19789CF - Show Changes' (owner: @14EE0C7)
+2488690 Thread[AWT-EventQueue-0,6,main] Show: Show Changes - Both file contents are equal. Shall the file compare be opened anyway?=true
+2488751 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@D3200:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Shared\_Layout.cshtml] - File/Revision Compare; smartsvn.WA@2D6F85:class smartsvn.WA
+2488751 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@D3200:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Shared\_Layout.cshtml] - File/Revision Compare; smartsvn.WA@2D6F85:class smartsvn.WA
+2488785 Thread[WorkerThread-3,2,main] finished runnable @193B911
+2490395 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@D3200:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Shared\_Layout.cshtml] - File/Revision Compare; smartsvn.WA@2D6F85:class smartsvn.WA
+2490422 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@D3200:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Shared\_Layout.cshtml] - File/Revision Compare; smartsvn.WA@2D6F85:class smartsvn.WA
+2490430 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@D3200:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Shared\_Layout.cshtml] - File/Revision Compare; smartsvn.WA@2D6F85:class smartsvn.WA
+2490431 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@D3200:title: [branches\PostLaunchQAFixes\Whataburger\Whataburger.Site\Views\Shared\_Layout.cshtml] - File/Revision Compare; smartsvn.WA@2D6F85:class smartsvn.WA
+2557668 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@10DB698:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@D50A15:class smartsvn.adO
+2557674 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@10DB698:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@D50A15:class smartsvn.adO
+2557676 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@10DB698:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@D50A15:class smartsvn.adO
+2557676 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@10DB698:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@D50A15:class smartsvn.adO
+2561658 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2561720 Thread[AWT-EventQueue-0,6,main] Showing dialog 46 (@1040584) '@1176F51 - Preferences' (owner: @6CB615)
+2561772 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2567045 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @1040584 owner @6CB615
+2567069 Thread[AWT-EventQueue-0,6,main] radio button 'External viewer (invoked for both compared files):' selected in smartsvn.hQ@A0215F:title: Edit
+2567070 Thread[AWT-EventQueue-0,6,main] Showing dialog 47 (@A0215F) '@11B9704 - Edit' (owner: @1040584)
+2567110 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@1040584:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2571224 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @A0215F owner @1040584 owner @6CB615
+2571347 Thread[AWT-EventQueue-0,6,main] Showing dialog 48 (@AEC8A2) '@11267DB - Select File' (owner: @A0215F)
+2571372 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@A0215F:title: Edit'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2573671 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @AEC8A2 owner @A0215F owner @1040584 owner @6CB615
+2573696 Thread[AWT-EventQueue-0,6,main] Showed dialog 48 (@AEC8A2) '@11267DB - Select File' (owner: @A0215F)
+2581767 Thread[AWT-EventQueue-0,6,main] radio button 'Built-in text file comparator' selected in smartsvn.hQ@A0215F:title: Edit
+2584192 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @A0215F owner @1040584 owner @6CB615
+2584211 Thread[AWT-EventQueue-0,6,main] Showed dialog 47 (@A0215F) '@11B9704 - Edit' (owner: @1040584)
+2609263 Thread[AWT-EventQueue-0,6,main] Performing 'Edit...' button in window @1040584 owner @6CB615
+2609290 Thread[AWT-EventQueue-0,6,main] Showing dialog 49 (@F5A233) '@557B7 - Edit' (owner: @1040584)
+2609339 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Edit' on top of 'smartsvn.hQ@1040584:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2610604 Thread[AWT-EventQueue-0,6,main] radio button 'External comparator:' selected in smartsvn.hQ@F5A233:title: Edit
+2611593 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @F5A233 owner @1040584 owner @6CB615
+2611656 Thread[AWT-EventQueue-0,6,main] Showing dialog 50 (@C1A600) '@E3BE49 - Select File' (owner: @F5A233)
+2611708 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@F5A233:title: Edit'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2699616 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @C1A600 owner @F5A233 owner @1040584 owner @6CB615
+2699630 Thread[AWT-EventQueue-0,6,main] Showed dialog 50 (@C1A600) '@E3BE49 - Select File' (owner: @F5A233)
+2700600 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @F5A233 owner @1040584 owner @6CB615
+2700614 Thread[AWT-EventQueue-0,6,main] Showed dialog 49 (@F5A233) '@557B7 - Edit' (owner: @1040584)
+2701185 Thread[AWT-EventQueue-0,6,main] Performing 'Cancel' button in window @1040584 owner @6CB615
+2701196 Thread[AWT-EventQueue-0,6,main] Showed dialog 46 (@1040584) '@1176F51 - Preferences' (owner: @6CB615)
+2704711 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2704810 Thread[AWT-EventQueue-0,6,main] Showing dialog 51 (@1AF2501) '@1A1546B - Preferences' (owner: @6CB615)
+2704871 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2711800 Thread[AWT-EventQueue-0,6,main] radio button 'External Conflict Solver' selected in smartsvn.hQ@1AF2501:title: Preferences
+2713477 Thread[AWT-EventQueue-0,6,main] Performing 'Choose...' button in window @1AF2501 owner @6CB615
+2713536 Thread[AWT-EventQueue-0,6,main] Showing dialog 52 (@BB2B73) '@FBE9C1 - Select File' (owner: @1AF2501)
+2713556 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Select File' on top of 'smartsvn.hQ@1AF2501:title: Preferences'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2728615 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @BB2B73 owner @1AF2501 owner @6CB615
+2728636 Thread[AWT-EventQueue-0,6,main] Showed dialog 52 (@BB2B73) '@FBE9C1 - Select File' (owner: @1AF2501)
+2749414 Thread[AWT-EventQueue-0,6,main] Performing 'Variables' button in window @1AF2501 owner @6CB615
+2751346 Thread[AWT-EventQueue-0,6,main] Performing 'Left File, ' menu item on javax.swing.JPanel in window smartsvn.hQ@1AF2501:title: Preferences
+2753523 Thread[AWT-EventQueue-0,6,main] Performing 'Variables' button in window @1AF2501 owner @6CB615
+2758597 Thread[AWT-EventQueue-0,6,main] Performing 'Right File, ' menu item on javax.swing.JPanel in window smartsvn.hQ@1AF2501:title: Preferences
+2759671 Thread[AWT-EventQueue-0,6,main] Performing 'Variables' button in window @1AF2501 owner @6CB615
+2763245 Thread[AWT-EventQueue-0,6,main] Performing 'Merged File, ' menu item on javax.swing.JPanel in window smartsvn.hQ@1AF2501:title: Preferences
+2820795 Thread[AWT-EventQueue-0,6,main] Performing 'Variables' button in window @1AF2501 owner @6CB615
+2821986 Thread[AWT-EventQueue-0,6,main] Performing 'Base File, ' menu item on javax.swing.JPanel in window smartsvn.hQ@1AF2501:title: Preferences
+2853037 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @1AF2501 owner @6CB615
+2853064 Thread[AWT-EventQueue-0,6,main] Showed dialog 51 (@1AF2501) '@1A1546B - Preferences' (owner: @6CB615)
+2864156 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2864223 Thread[AWT-EventQueue-0,6,main] Showing dialog 53 (@136EED3) '@145220B - Merge' (owner: @6CB615)
+2864246 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2865864 Thread[AWT-EventQueue-0,6,main] Performing 'Preview' button in window @136EED3 owner @6CB615
+2865881 Thread[AWT-EventQueue-0,6,main] Showed dialog 53 (@136EED3) '@145220B - Merge' (owner: @6CB615)
+2865884 Thread[AWT-EventQueue-0,6,main] scheduled runnable @D597A5
+2865884 Thread[WorkerThread-3,2,main] starting runnable @D597A5
+2865981 Thread[WorkerThread-3,2,main] Merge from http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch@486 ranges 0-486 to C:\sites\whataburger.com\branches\PostLaunchQAFixes (depth=infinity,ignoreAncestry=false,recordOnly=false,force=false,dryRun=true;reversed=false;extendedMerge=null)
+2888508 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@249E9E:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@EA39C4:class smartsvn.adO
+2888508 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@249E9E:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@EA39C4:class smartsvn.adO
+2888550 Thread[WorkerThread-3,2,main] finished runnable @D597A5
+2890559 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @29A060
+2890559 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+2890573 Thread[AWT-EventQueue-0,6,main] scheduled runnable @11548A8
+2890573 Thread[WorkerThread-3,2,main] starting runnable @11548A8
+2890596 Thread[WorkerThread-3,2,main] Error processing runnable
+2890596 Thread[WorkerThread-3,2,main] Argument 1 for @NotNull parameter must not be null
+java.lang.IllegalArgumentException: Argument 1 for @NotNull parameter must not be null
+	at smartsvn.Ky.a(SourceFile)
+	at smartsvn.auT.a(SourceFile:62)
+	at smartsvn.auQ.a(SourceFile:67)
+	at smartsvn.ayz.a(SourceFile:29)
+	at smartsvn.qX.run(SourceFile:30)
+	at smartsvn.ayN.run(SourceFile:62)
+	at smartsvn.qF.run(SourceFile:53)
+2890597 Thread[WorkerThread-3,2,main] Exception occurred
+2890597 Thread[WorkerThread-3,2,main] Argument 1 for @NotNull parameter must not be null
+java.lang.IllegalArgumentException: Argument 1 for @NotNull parameter must not be null
+	at smartsvn.Ky.a(SourceFile)
+	at smartsvn.auT.a(SourceFile:62)
+	at smartsvn.auQ.a(SourceFile:67)
+	at smartsvn.ayz.a(SourceFile:29)
+	at smartsvn.qX.run(SourceFile:30)
+	at smartsvn.ayN.run(SourceFile:62)
+	at smartsvn.qF.run(SourceFile:53)
+2890623 Thread[AWT-EventQueue-0,6,main] Showing dialog 54 (@B4EE11) '@8FDA8A - Internal Error' (owner: @29A060)
+2957229 Thread[AWT-EventQueue-0,6,main] Performing 'Close' button in window @B4EE11 owner @29A060
+2957233 Thread[AWT-EventQueue-0,6,main] Showed dialog 54 (@B4EE11) '@8FDA8A - Internal Error' (owner: @29A060)
+2960450 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @29A060
+2960451 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+2960463 Thread[AWT-EventQueue-0,6,main] scheduled runnable @9FCBDE
+2960464 Thread[WorkerThread-3,2,main] starting runnable @9FCBDE
+2960485 Thread[WorkerThread-3,2,main] Error processing runnable
+2960485 Thread[WorkerThread-3,2,main] Argument 1 for @NotNull parameter must not be null
+java.lang.IllegalArgumentException: Argument 1 for @NotNull parameter must not be null
+	at smartsvn.Ky.a(SourceFile)
+	at smartsvn.auT.a(SourceFile:62)
+	at smartsvn.auQ.a(SourceFile:67)
+	at smartsvn.ayz.a(SourceFile:29)
+	at smartsvn.qX.run(SourceFile:30)
+	at smartsvn.ayN.run(SourceFile:62)
+	at smartsvn.qF.run(SourceFile:53)
+2960486 Thread[WorkerThread-3,2,main] Exception occurred
+2960486 Thread[WorkerThread-3,2,main] Argument 1 for @NotNull parameter must not be null
+java.lang.IllegalArgumentException: Argument 1 for @NotNull parameter must not be null
+	at smartsvn.Ky.a(SourceFile)
+	at smartsvn.auT.a(SourceFile:62)
+	at smartsvn.auQ.a(SourceFile:67)
+	at smartsvn.ayz.a(SourceFile:29)
+	at smartsvn.qX.run(SourceFile:30)
+	at smartsvn.ayN.run(SourceFile:62)
+	at smartsvn.qF.run(SourceFile:53)
+2960513 Thread[AWT-EventQueue-0,6,main] Showing dialog 55 (@1F81323) '@1ACB901 - Internal Error' (owner: @29A060)
+2962294 Thread[AWT-EventQueue-0,6,main] Performing 'Close' button in window @1F81323 owner @29A060
+2962317 Thread[AWT-EventQueue-0,6,main] Showed dialog 55 (@1F81323) '@1ACB901 - Internal Error' (owner: @29A060)
+2965644 Thread[AWT-EventQueue-0,6,main] Trying to close subframe smartsvn.aNE@249E9E:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@EA39C4:class smartsvn.adO
+2965660 Thread[AWT-EventQueue-0,6,main] Close subframe is initiated smartsvn.aNE@249E9E:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@EA39C4:class smartsvn.adO
+2965669 Thread[AWT-EventQueue-0,6,main] closed smartsvn.aNE@249E9E:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@EA39C4:class smartsvn.adO
+2965670 Thread[AWT-EventQueue-0,6,main] Removed subframe smartsvn.aNE@249E9E:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@EA39C4:class smartsvn.adO
+2969170 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+2969250 Thread[AWT-EventQueue-0,6,main] radio button 'External Conflict Solver' selected in smartsvn.hQ@15FE65E:title: Preferences
+2969251 Thread[AWT-EventQueue-0,6,main] Showing dialog 56 (@15FE65E) '@1C7DC93 - Preferences' (owner: @6CB615)
+2969304 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+3038405 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @15FE65E owner @6CB615
+3038448 Thread[AWT-EventQueue-0,6,main] Showed dialog 56 (@15FE65E) '@1C7DC93 - Preferences' (owner: @6CB615)
+3050419 Thread[AWT-EventQueue-0,6,main] Performing 'merge, Merge..., Merge changes from the trunk, a tag or a branch.' menu item in Modify from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+3050506 Thread[AWT-EventQueue-0,6,main] Showing dialog 57 (@7A6AD5) '@1337D22 - Merge' (owner: @6CB615)
+3050533 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Merge' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+3052199 Thread[AWT-EventQueue-0,6,main] Performing 'Preview' button in window @7A6AD5 owner @6CB615
+3052217 Thread[AWT-EventQueue-0,6,main] Showed dialog 57 (@7A6AD5) '@1337D22 - Merge' (owner: @6CB615)
+3052220 Thread[AWT-EventQueue-0,6,main] scheduled runnable @977DA4
+3052221 Thread[WorkerThread-3,2,main] starting runnable @977DA4
+3052377 Thread[WorkerThread-3,2,main] Merge from http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch@486 ranges 0-486 to C:\sites\whataburger.com\branches\PostLaunchQAFixes (depth=infinity,ignoreAncestry=false,recordOnly=false,force=false,dryRun=true;reversed=false;extendedMerge=null)
+3074674 Thread[AWT-EventQueue-0,6,main] opening smartsvn.aNE@A5E7D1:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1F7F70A:class smartsvn.adO
+3074674 Thread[AWT-EventQueue-0,6,main] Added subframe smartsvn.aNE@A5E7D1:title: Merge Preview for http://svn.dynamitdigital.com/svn/whataburger.com/branches/PostLaunch  (all revisions); smartsvn.adO@1F7F70A:class smartsvn.adO
+3074713 Thread[WorkerThread-3,2,main] finished runnable @977DA4
+3079207 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @1654EE
+3079207 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+3079211 Thread[AWT-EventQueue-0,6,main] scheduled runnable @D3BB8
+3079211 Thread[WorkerThread-3,2,main] starting runnable @D3BB8
+3079219 Thread[WorkerThread-3,2,main] Error processing runnable
+3079219 Thread[WorkerThread-3,2,main] Argument 1 for @NotNull parameter must not be null
+java.lang.IllegalArgumentException: Argument 1 for @NotNull parameter must not be null
+	at smartsvn.Ky.a(SourceFile)
+	at smartsvn.auT.a(SourceFile:62)
+	at smartsvn.auQ.a(SourceFile:67)
+	at smartsvn.ayz.a(SourceFile:29)
+	at smartsvn.qX.run(SourceFile:30)
+	at smartsvn.ayN.run(SourceFile:62)
+	at smartsvn.qF.run(SourceFile:53)
+3079220 Thread[WorkerThread-3,2,main] Exception occurred
+3079220 Thread[WorkerThread-3,2,main] Argument 1 for @NotNull parameter must not be null
+java.lang.IllegalArgumentException: Argument 1 for @NotNull parameter must not be null
+	at smartsvn.Ky.a(SourceFile)
+	at smartsvn.auT.a(SourceFile:62)
+	at smartsvn.auQ.a(SourceFile:67)
+	at smartsvn.ayz.a(SourceFile:29)
+	at smartsvn.qX.run(SourceFile:30)
+	at smartsvn.ayN.run(SourceFile:62)
+	at smartsvn.qF.run(SourceFile:53)
+3079249 Thread[AWT-EventQueue-0,6,main] Showing dialog 58 (@1EEBFAB) '@4E582E - Internal Error' (owner: @1654EE)
+3084527 Thread[AWT-EventQueue-0,6,main] Performing 'Copy' button in window @1EEBFAB owner @1654EE
+3162388 Thread[AWT-EventQueue-0,6,main] Performing 'Close' button in window @1EEBFAB owner @1654EE
+3162413 Thread[AWT-EventQueue-0,6,main] Showed dialog 58 (@1EEBFAB) '@4E582E - Internal Error' (owner: @1654EE)
+3168554 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+3168630 Thread[AWT-EventQueue-0,6,main] radio button 'External Conflict Solver' selected in smartsvn.hQ@67C4B4:title: Preferences
+3168631 Thread[AWT-EventQueue-0,6,main] Showing dialog 59 (@67C4B4) '@50EC68 - Preferences' (owner: @6CB615)
+3168677 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+3191584 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @67C4B4 owner @6CB615
+3191614 Thread[AWT-EventQueue-0,6,main] Showed dialog 59 (@67C4B4) '@50EC68 - Preferences' (owner: @6CB615)
+3198686 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @1654EE
+3198686 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+3198690 Thread[AWT-EventQueue-0,6,main] scheduled runnable @6C427F
+3198691 Thread[WorkerThread-3,2,main] starting runnable @6C427F
+3198702 Thread[WorkerThread-3,2,main] Error processing runnable
+3198702 Thread[WorkerThread-3,2,main] Argument 1 for @NotNull parameter must not be null
+java.lang.IllegalArgumentException: Argument 1 for @NotNull parameter must not be null
+	at smartsvn.Ky.a(SourceFile)
+	at smartsvn.auT.a(SourceFile:62)
+	at smartsvn.auQ.a(SourceFile:67)
+	at smartsvn.ayz.a(SourceFile:29)
+	at smartsvn.qX.run(SourceFile:30)
+	at smartsvn.ayN.run(SourceFile:62)
+	at smartsvn.qF.run(SourceFile:53)
+3198702 Thread[WorkerThread-3,2,main] Exception occurred
+3198702 Thread[WorkerThread-3,2,main] Argument 1 for @NotNull parameter must not be null
+java.lang.IllegalArgumentException: Argument 1 for @NotNull parameter must not be null
+	at smartsvn.Ky.a(SourceFile)
+	at smartsvn.auT.a(SourceFile:62)
+	at smartsvn.auQ.a(SourceFile:67)
+	at smartsvn.ayz.a(SourceFile:29)
+	at smartsvn.qX.run(SourceFile:30)
+	at smartsvn.ayN.run(SourceFile:62)
+	at smartsvn.qF.run(SourceFile:53)
+3198731 Thread[AWT-EventQueue-0,6,main] Showing dialog 60 (@F62FD5) '@15CE670 - Internal Error' (owner: @1654EE)
+3201006 Thread[AWT-EventQueue-0,6,main] Performing 'Close' button in window @F62FD5 owner @1654EE
+3201021 Thread[AWT-EventQueue-0,6,main] Showed dialog 60 (@F62FD5) '@15CE670 - Internal Error' (owner: @1654EE)
+3205462 Thread[AWT-EventQueue-0,6,main] Performing 'preferences, Preferences..., Change the project independent settings (preferences).' menu item in Edit from menu in window smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+3205542 Thread[AWT-EventQueue-0,6,main] radio button 'External Conflict Solver' selected in smartsvn.hQ@F8539E:title: Preferences
+3205545 Thread[AWT-EventQueue-0,6,main] Showing dialog 61 (@F8539E) '@1D01993 - Preferences' (owner: @6CB615)
+3205599 Thread[AWT-EventQueue-0,6,main] Showing parent modal dialog 'Preferences' on top of 'smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)'
+original frame: smartsvn.dm@6CB615:whataburger.com - SmartSVN Professional 7.0.4 (demo until Aug 10, 2012) (smartsvn.Pt)
+3398730 Thread[AWT-EventQueue-0,6,main] Performing 'OK' button in window @F8539E owner @6CB615
+3398751 Thread[AWT-EventQueue-0,6,main] Showed dialog 61 (@F8539E) '@1D01993 - Preferences' (owner: @6CB615)
+3408784 Thread[AWT-EventQueue-0,6,main] Performing '@smartsvn.adQ' in window @1654EE
+3408784 Thread[AWT-EventQueue-0,6,main] Performing 'conflict-solver, Show 3-Way-Merge Changes, Show the merge changes for the selected file using a 3-Way-Merge.'
+3408792 Thread[AWT-EventQueue-0,6,main] scheduled runnable @554E04
+3408793 Thread[WorkerThread-3,2,main] starting runnable @554E04
+3408806 Thread[WorkerThread-3,2,main] Error processing runnable
+3408806 Thread[WorkerThread-3,2,main] Argument 1 for @NotNull parameter must not be null
+java.lang.IllegalArgumentException: Argument 1 for @NotNull parameter must not be null
+	at smartsvn.Ky.a(SourceFile)
+	at smartsvn.auT.a(SourceFile:62)
+	at smartsvn.auQ.a(SourceFile:67)
+	at smartsvn.ayz.a(SourceFile:29)
+	at smartsvn.qX.run(SourceFile:30)
+	at smartsvn.ayN.run(SourceFile:62)
+	at smartsvn.qF.run(SourceFile:53)
+3408807 Thread[WorkerThread-3,2,main] Exception occurred
+3408807 Thread[WorkerThread-3,2,main] Argument 1 for @NotNull parameter must not be null
+java.lang.IllegalArgumentException: Argument 1 for @NotNull parameter must not be null
+	at smartsvn.Ky.a(SourceFile)
+	at smartsvn.auT.a(SourceFile:62)
+	at smartsvn.auQ.a(SourceFile:67)
+	at smartsvn.ayz.a(SourceFile:29)
+	at smartsvn.qX.run(SourceFile:30)
+	at smartsvn.ayN.run(SourceFile:62)
+	at smartsvn.qF.run(SourceFile:53)

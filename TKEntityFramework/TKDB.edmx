@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="TKModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="TKModelStoreContainer">
+          <EntitySet Name="Category" EntityType="TKModel.Store.Category" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="ResourceCategory" EntityType="TKModel.Store.ResourceCategory" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Resources" EntityType="TKModel.Store.Resources" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="SavedUndoCommands" EntityType="TKModel.Store.SavedUndoCommands" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TestThing" EntityType="TKModel.Store.TestThing" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK_Category_Category" Association="TKModel.Store.FK_Category_Category">
+            <End Role="Category" EntitySet="Category" />
+            <End Role="Category1" EntitySet="Category" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ResourceCategory_Category" Association="TKModel.Store.FK_ResourceCategory_Category">
+            <End Role="Category" EntitySet="Category" />
+            <End Role="ResourceCategory" EntitySet="ResourceCategory" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ResourceCategory_Resources" Association="TKModel.Store.FK_ResourceCategory_Resources">
+            <End Role="Resources" EntitySet="Resources" />
+            <End Role="ResourceCategory" EntitySet="ResourceCategory" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Category">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Name" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="ParentId" Type="uniqueidentifier" />
+          <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+          <Property Name="CreatedBy" Type="int" Nullable="false" />
+          <Property Name="ModifiedDate" Type="datetime" />
+          <Property Name="ModifiedBy" Type="int" />
+        </EntityType>
+        <EntityType Name="ResourceCategory">
+          <Key>
+            <PropertyRef Name="CategoryId" />
+            <PropertyRef Name="ResourceId" />
+          </Key>
+          <Property Name="CategoryId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ResourceId" Type="uniqueidentifier" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Resources">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Name" Type="varchar" Nullable="false" MaxLength="255" />
+          <Property Name="File" Type="varbinary(max)" Nullable="false" />
+          <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+          <Property Name="CreatedBy" Type="int" Nullable="false" />
+          <Property Name="ModifiedDate" Type="datetime" />
+          <Property Name="ModifiedBy" Type="int" />
+          <Property Name="ContentLength" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="SavedUndoCommands">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="SerializedCommand" Type="varchar(max)" Nullable="false" />
+          <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TestThing">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" />
+          <Property Name="SomeShit" Type="nchar" MaxLength="10" />
+        </EntityType>
+        <Association Name="FK_Category_Category">
+          <End Role="Category" Type="TKModel.Store.Category" Multiplicity="0..1" />
+          <End Role="Category1" Type="TKModel.Store.Category" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Category">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Category1">
+              <PropertyRef Name="ParentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ResourceCategory_Category">
+          <End Role="Category" Type="TKModel.Store.Category" Multiplicity="1" />
+          <End Role="ResourceCategory" Type="TKModel.Store.ResourceCategory" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Category">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ResourceCategory">
+              <PropertyRef Name="CategoryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ResourceCategory_Resources">
+          <End Role="Resources" Type="TKModel.Store.Resources" Multiplicity="1" />
+          <End Role="ResourceCategory" Type="TKModel.Store.ResourceCategory" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Resources">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ResourceCategory">
+              <PropertyRef Name="ResourceId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TKModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="TKProto1Entities" annotation:LazyLoadingEnabled="false">
+          <EntitySet Name="Categories" EntityType="TKModel.Category" />
+          <EntitySet Name="Resources" EntityType="TKModel.Resource" />
+          <AssociationSet Name="FK_Category_Category" Association="TKModel.FK_Category_Category">
+            <End Role="Category" EntitySet="Categories" />
+            <End Role="Category1" EntitySet="Categories" />
+          </AssociationSet>
+          <AssociationSet Name="ResourceCategory" Association="TKModel.ResourceCategory">
+            <End Role="Category" EntitySet="Categories" />
+            <End Role="Resources" EntitySet="Resources" />
+          </AssociationSet>
+          <EntitySet Name="TestThings" EntityType="TKModel.TestThing" />
+          <EntitySet Name="SavedUndoCommands" EntityType="TKModel.SavedUndoCommand" />
+        </EntityContainer>
+        <EntityType Name="Category">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="ParentId" Type="Guid" />
+          <Property Name="CreatedDate" Type="DateTime" Nullable="false" />
+          <Property Name="CreatedBy" Type="Int32" Nullable="false" />
+          <Property Name="ModifiedDate" Type="DateTime" />
+          <Property Name="ModifiedBy" Type="Int32" />
+          <NavigationProperty Name="SubCategories" Relationship="TKModel.FK_Category_Category" FromRole="Category" ToRole="Category1" />
+          <NavigationProperty Name="ParentCategory" Relationship="TKModel.FK_Category_Category" FromRole="Category1" ToRole="Category" />
+          <NavigationProperty Name="Resources" Relationship="TKModel.ResourceCategory" FromRole="Category" ToRole="Resources" />
+        </EntityType>
+        <EntityType Name="Resource">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="255" Unicode="false" FixedLength="false" />
+          <Property Name="File" Type="Binary" Nullable="false" MaxLength="Max" FixedLength="false" />
+          <Property Name="CreatedDate" Type="DateTime" Nullable="false" />
+          <Property Name="CreatedBy" Type="Int32" Nullable="false" />
+          <Property Name="ModifiedDate" Type="DateTime" />
+          <Property Name="ModifiedBy" Type="Int32" />
+          <Property Name="ContentLength" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Categories" Relationship="TKModel.ResourceCategory" FromRole="Resources" ToRole="Category" />
+        </EntityType>
+        <Association Name="FK_Category_Category">
+          <End Role="Category" Type="TKModel.Category" Multiplicity="0..1" />
+          <End Role="Category1" Type="TKModel.Category" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Category">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Category1">
+              <PropertyRef Name="ParentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="ResourceCategory">
+          <End Role="Category" Type="TKModel.Category" Multiplicity="*" />
+          <End Role="Resources" Type="TKModel.Resource" Multiplicity="*" />
+        </Association>
+        <EntityType Name="TestThing">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" />
+          <Property Type="String" Name="SomeShit" MaxLength="10" FixedLength="true" Unicode="true" />
+        </EntityType>
+        <EntityType Name="SavedUndoCommand">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Guid" Name="Id" Nullable="false" />
+          <Property Type="String" Name="SerializedCommand" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="CreatedDate" Nullable="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="TKModelStoreContainer" CdmEntityContainer="TKProto1Entities">
+          <EntitySetMapping Name="Categories">
+            <EntityTypeMapping TypeName="TKModel.Category">
+              <MappingFragment StoreEntitySet="Category">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ParentId" ColumnName="ParentId" />
+                <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+                <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+                <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+                <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Resources">
+            <EntityTypeMapping TypeName="TKModel.Resource">
+              <MappingFragment StoreEntitySet="Resources">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="File" ColumnName="File" />
+                <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+                <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+                <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+                <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+                <ScalarProperty Name="ContentLength" ColumnName="ContentLength" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <AssociationSetMapping Name="ResourceCategory" TypeName="TKModel.ResourceCategory" StoreEntitySet="ResourceCategory">
+            <EndProperty Name="Category">
+              <ScalarProperty Name="Id" ColumnName="CategoryId" />
+            </EndProperty>
+            <EndProperty Name="Resources">
+              <ScalarProperty Name="Id" ColumnName="ResourceId" />
+            </EndProperty>
+          </AssociationSetMapping>
+          <EntitySetMapping Name="TestThings">
+            <EntityTypeMapping TypeName="TKModel.TestThing">
+              <MappingFragment StoreEntitySet="TestThing">
+                <ScalarProperty Name="SomeShit" ColumnName="SomeShit" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SavedUndoCommands">
+            <EntityTypeMapping TypeName="TKModel.SavedUndoCommand">
+              <MappingFragment StoreEntitySet="SavedUndoCommands">
+                <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+                <ScalarProperty Name="SerializedCommand" ColumnName="SerializedCommand" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="TKDB">
+        <EntityTypeShape EntityType="TKModel.Category" Width="1.5" PointX="0.75" PointY="1" Height="2.9417936197916665" IsExpanded="true" />
+        <EntityTypeShape EntityType="TKModel.Resource" Width="1.5" PointX="3" PointY="1.125" Height="2.7494921874999996" IsExpanded="true" />
+        <AssociationConnector Association="TKModel.FK_Category_Category" ManuallyRouted="false">
+          <ConnectorPoint PointX="1.2819230769230767" PointY="3.9417936197916665" />
+          <ConnectorPoint PointX="1.2819230769230767" PointY="4.1917936197916665" />
+          <ConnectorPoint PointX="1.7284615384615383" PointY="4.1917936197916665" />
+          <ConnectorPoint PointX="1.7284615384615383" PointY="3.9417936197916665" />
+        </AssociationConnector>
+        <AssociationConnector Association="TKModel.ResourceCategory" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="2.49974609375" />
+          <ConnectorPoint PointX="3" PointY="2.49974609375" />
+        </AssociationConnector>
+        <EntityTypeShape EntityType="TKModel.TestThing" Width="1.5" PointX="0.75" PointY="4.75" Height="1.4033821614583317" />
+        <EntityTypeShape EntityType="TKModel.SavedUndoCommand" Width="1.5" PointX="3.375" PointY="4.75" Height="1.5956835937499996" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

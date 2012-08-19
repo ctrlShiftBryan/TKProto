@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKMVC", "TKProto1\TKMVC.csproj", "{5C529067-E1DB-4289-AF3C-C64E0341703B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKData", "EF\TKData.csproj", "{7E2C228B-1821-4934-AFFB-CA72BDA19D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKServices", "Services\TKServices.csproj", "{C589920C-4723-4D89-942D-1BFE1FF55FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKModel", "Model\TKModel.csproj", "{A109E546-68FC-4F8D-BA8D-212B0804EC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKEntityFramework", "TKEntityFramework\TKEntityFramework.csproj", "{5BEFCF48-7E26-4630-B004-7734C519A034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKCommon", "TKCommon\TKCommon.csproj", "{500AF56B-FDC2-4169-A33D-EF7277547403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKTests", "TKTests\TKTests.csproj", "{264D466C-C2B3-44A3-8786-1EBBA29172D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C529067-E1DB-4289-AF3C-C64E0341703B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C529067-E1DB-4289-AF3C-C64E0341703B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C529067-E1DB-4289-AF3C-C64E0341703B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C529067-E1DB-4289-AF3C-C64E0341703B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2C228B-1821-4934-AFFB-CA72BDA19D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2C228B-1821-4934-AFFB-CA72BDA19D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2C228B-1821-4934-AFFB-CA72BDA19D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2C228B-1821-4934-AFFB-CA72BDA19D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C589920C-4723-4D89-942D-1BFE1FF55FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C589920C-4723-4D89-942D-1BFE1FF55FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C589920C-4723-4D89-942D-1BFE1FF55FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C589920C-4723-4D89-942D-1BFE1FF55FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A109E546-68FC-4F8D-BA8D-212B0804EC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A109E546-68FC-4F8D-BA8D-212B0804EC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A109E546-68FC-4F8D-BA8D-212B0804EC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A109E546-68FC-4F8D-BA8D-212B0804EC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEFCF48-7E26-4630-B004-7734C519A034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEFCF48-7E26-4630-B004-7734C519A034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEFCF48-7E26-4630-B004-7734C519A034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEFCF48-7E26-4630-B004-7734C519A034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500AF56B-FDC2-4169-A33D-EF7277547403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500AF56B-FDC2-4169-A33D-EF7277547403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500AF56B-FDC2-4169-A33D-EF7277547403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500AF56B-FDC2-4169-A33D-EF7277547403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264D466C-C2B3-44A3-8786-1EBBA29172D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264D466C-C2B3-44A3-8786-1EBBA29172D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264D466C-C2B3-44A3-8786-1EBBA29172D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264D466C-C2B3-44A3-8786-1EBBA29172D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
