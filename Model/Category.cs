@@ -20,38 +20,35 @@ namespace TKModel
             this.SubCategories = new List<Category>();
             this.Resources = new List<Resource>();
         }
-
-
-        private System.Guid _id;
-
-        object IEntity.Id
-        {
-            get { return _id; }
-        }
-
-
-        public System.Guid Id
-        {
-            get { return _id; }
-            set { _id = value; }
-        }
-
-
-        public string Name { get; set; }
-        public Nullable<System.Guid> ParentId { get; set; }
-        public System.DateTime CreatedDate { get; set; }
-        public int CreatedBy { get; set; }
-        public Nullable<System.DateTime> ModifiedDate { get; set; }
-        public Nullable<int> ModifiedBy { get; set; }
-
-        [XmlIgnore]
-        public List<Category> SubCategories { get; set; }
-
-        [XmlIgnore]
-        public Category ParentCategory { get; set; }
-
-        [XmlIgnore]
-        public List<Resource> Resources { get; set; }
-    }
-
+    
+    		
+    		private System.Guid _id;
+    
+            object IEntity.Id
+            {
+                get { return _id; }
+            }
+    
+    
+            public System.Guid Id
+            {
+                get { return _id; }
+                set { _id = value; }
+            }
+    
+    
+    			public string Name { get; set; }
+    			public Nullable<System.Guid> ParentId { get; set; }
+    			public System.DateTime CreatedDate { get; set; }
+    			public int CreatedBy { get; set; }
+    			public Nullable<System.DateTime> ModifiedDate { get; set; }
+    			public Nullable<int> ModifiedBy { get; set; }
+    	
+    		    public List<Category> SubCategories { get; set; }
+    			
+                public Category ParentCategory { get; set; }
+                  [XmlIgnore]
+                public List<Resource> Resources { get; set; }
+    	}
+    
 }

@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{264D466C-C2B3-44A3-8786-1EBBA29172D2}</ProjectGuid>
+    <ProjectGuid>{7E2C228B-1821-4934-AFFB-CA72BDA19D30}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TKTests</RootNamespace>
-    <AssemblyName>TKTests</AssemblyName>
+    <RootNamespace>ACRL.EFData</RootNamespace>
+    <AssemblyName>ACRL.EFData</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -35,13 +35,12 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\EntityFramework.5.0.0\lib\net40\EntityFramework.dll</HintPath>
     </Reference>
-    <Reference Include="nunit.framework">
-      <HintPath>..\packages\NUnit.2.6.1\lib\nunit.framework.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -49,33 +48,44 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DatabaseFactory.cs" />
+    <Compile Include="Disposable.cs" />
+    <Compile Include="Interfaces\IDatabaseFactory.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
+    <Compile Include="Interfaces\IUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository.cs" />
+    <Compile Include="TKDB.Designer.cs">
+      <DependentUpon>TKDB.edmx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="TKProto.Context.cs">
+      <DependentUpon>TKProto.Context.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="UnitOfWork.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.Config" />
     <None Include="packages.config" />
+    <EntityDeploy Include="TKDB.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>TKDB.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="TKProto.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>TKProto.Context.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EF\ACRL.EFData.csproj">
-      <Project>{7E2C228B-1821-4934-AFFB-CA72BDA19D30}</Project>
-      <Name>ACRL.EFData</Name>
-    </ProjectReference>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\Model\TKModel.csproj">
       <Project>{A109E546-68FC-4F8D-BA8D-212B0804EC83}</Project>
       <Name>TKModel</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Services\ACRL.EFRepo.csproj">
-      <Project>{C589920C-4723-4D89-942D-1BFE1FF55FC3}</Project>
-      <Name>ACRL.EFRepo</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TKCommon\DT.Common.csproj">
-      <Project>{500AF56B-FDC2-4169-A33D-EF7277547403}</Project>
-      <Name>DT.Common</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TKProto1\TKMVC.csproj">
-      <Project>{5C529067-E1DB-4289-AF3C-C64E0341703B}</Project>
-      <Name>TKMVC</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

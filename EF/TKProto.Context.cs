@@ -12,7 +12,7 @@ using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using TKModel;
 
-namespace TKEntityFramework
+namespace ACRL.EFData
 {
     public partial class TKProto1Entities : DbContext
     {

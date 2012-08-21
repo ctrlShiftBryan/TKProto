@@ -40,7 +40,7 @@ if (container == null)
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using TKData;
+using ACRL.EFData.Interfaces;
 using TKModel;
 <#
 if (container.FunctionImports.Any())

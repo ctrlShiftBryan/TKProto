@@ -4,7 +4,7 @@ using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using System.Linq.Expressions;
 
-namespace TKData.Interfaces
+namespace ACRL.EFData.Interfaces
 {
     public interface IRepository<T> where T : class
     {

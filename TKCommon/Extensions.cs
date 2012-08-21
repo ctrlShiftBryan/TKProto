@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace TKCommon
+namespace DT.Common
 {
     public static class MyExtensions
     {

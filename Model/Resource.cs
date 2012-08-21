@@ -9,6 +9,7 @@
 
 using System;
 using System.Collections.Generic;
+using System.Xml.Serialization;
 using TKModel.Interfaces;
 namespace TKModel
 {
@@ -42,7 +43,8 @@ namespace TKModel
     			public Nullable<System.DateTime> ModifiedDate { get; set; }
     			public Nullable<int> ModifiedBy { get; set; }
     			public int ContentLength { get; set; }
-    	
+    	  
+
     		public List<Category> Categories { get; set; }
     	}
     

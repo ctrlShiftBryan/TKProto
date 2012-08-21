@@ -34,8 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EntityFramework, Version=4.3.1.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>..\packages\EntityFramework.4.3.1\lib\net40\EntityFramework.dll</HintPath>
+    <Reference Include="EntityFramework, Version=4.4.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net40\EntityFramework.dll</HintPath>
     </Reference>
     <Reference Include="HibernatingRhinos.Profiler.Appender.v4.0">
       <HintPath>..\..\..\..\Program Files (x86)\EFProf\HibernatingRhinos.Profiler.Appender.v4.0.dll</HintPath>
@@ -196,21 +197,21 @@
     <Content Include="Views\Category\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EF\TKData.csproj">
+    <ProjectReference Include="..\EF\ACRL.EFData.csproj">
       <Project>{7E2C228B-1821-4934-AFFB-CA72BDA19D30}</Project>
-      <Name>TKData</Name>
+      <Name>ACRL.EFData</Name>
     </ProjectReference>
     <ProjectReference Include="..\Model\TKModel.csproj">
       <Project>{A109E546-68FC-4F8D-BA8D-212B0804EC83}</Project>
       <Name>TKModel</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Services\TKServices.csproj">
+    <ProjectReference Include="..\Services\ACRL.EFRepo.csproj">
       <Project>{C589920C-4723-4D89-942D-1BFE1FF55FC3}</Project>
-      <Name>TKServices</Name>
+      <Name>ACRL.EFRepo</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TKCommon\TKCommon.csproj">
+    <ProjectReference Include="..\TKCommon\DT.Common.csproj">
       <Project>{500AF56B-FDC2-4169-A33D-EF7277547403}</Project>
-      <Name>TKCommon</Name>
+      <Name>DT.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

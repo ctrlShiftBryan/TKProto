@@ -4,13 +4,12 @@ using System.Data;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using System.Linq;
-using TKCommon;
-using TKData;
-using TKData.Interfaces;
+using ACRL.EFData.Interfaces;
+using ACRL.Repo.Interfaces;
+using DT.Common;
 using TKModel;
-using TKServices.Interfaces;
 
-namespace TKServices
+namespace ACRL.Repo
 {
     public class ResourceService : ServiceBase, IResourceService
     {

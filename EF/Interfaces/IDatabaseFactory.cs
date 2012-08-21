@@ -1,7 +1,6 @@
 ﻿using System;
-using TKEntityFramework;
 
-namespace TKData.Interfaces
+namespace ACRL.EFData.Interfaces
 {
     public interface IDatabaseFactory : IDisposable
     {

@@ -1,4 +1,4 @@
-﻿namespace TKData.Interfaces
+﻿namespace ACRL.EFData.Interfaces
 {
     interface IUnitOfWork
     {

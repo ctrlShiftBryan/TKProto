@@ -8,11 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using TKData;
-using TKData.Interfaces;
+using ACRL.EFData.Interfaces;
 using TKModel;
 
-namespace TKServices
+namespace ACRL.Repo
 {
     public abstract class ServiceBase
     {

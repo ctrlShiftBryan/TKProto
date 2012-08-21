@@ -7,13 +7,9 @@ using System.Data.Entity.Validation;
 using System.Diagnostics;
 using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
-using TKData;
-using TKData.Interfaces;
-using TKEntityFramework;
+using ACRL.EFData.Interfaces;
 
-
-namespace TKData
+namespace ACRL.EFData
 {
     public class Repository<T>  :  IRepository<T> where T : class
     {

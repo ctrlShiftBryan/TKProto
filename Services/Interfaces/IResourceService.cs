@@ -1,9 +1,10 @@
 using System;
 using System.Collections.Generic;
+using DT.Common;
 using TKCommon;
 using TKModel;
 
-namespace TKServices.Interfaces
+namespace ACRL.Repo.Interfaces
 {
     public interface IResourceService
     {

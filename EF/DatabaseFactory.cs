@@ -1,10 +1,6 @@
-﻿
+﻿using ACRL.EFData.Interfaces;
 
-
-using TKData.Interfaces;
-using TKEntityFramework;
-
-namespace TKData
+namespace ACRL.EFData
 {
     public class DatabaseFactory : Disposable, IDatabaseFactory
     {
